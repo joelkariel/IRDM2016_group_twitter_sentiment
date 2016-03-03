@@ -9,7 +9,7 @@ from Crime import Crime
 def main(tweet_path, crime_path):
     tweets = load_tweets(tweet_path)
     crimes = load_crime_data(crime_path)
-    tweets_with_separated_hashtags = extract_hashtags(tweets)
+    extract_hashtags(tweets)
 
 
 def extract_hashtags(tweets):
