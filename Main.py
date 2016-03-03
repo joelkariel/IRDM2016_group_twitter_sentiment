@@ -14,7 +14,11 @@ def main(tweet_path, crime_path):
 
 def extract_hashtags(tweets):
     for tweet in tweets:
-        tweet.hashtags = set([i[1:] for i in tweet.text.split() if i.startswith("#")])
+        tweet.text_without_hashtags = tweet.text
+        if '#' in tweet.text:
+            tweet.hashtags = set([i[1:] for i in tweet.text.split() if i.startswith("#")])
+            for hashtag in tweet.hashtags:
+                tweet.text_without_hashtags = tweet.text_without_hashtags.replace('#' + hashtag, '')
 
 
 def load_crime_data(path):

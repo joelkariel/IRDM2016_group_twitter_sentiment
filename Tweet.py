@@ -11,6 +11,7 @@ class Tweet:
         self.place_type = placeType
         self.profile_location = profileLocation
         self.text = text
+        self.text_without_hashtags = ''
         self.tweet_id = tweetId
         self.username = username
         self.hashtags = []
