@@ -1,12 +1,14 @@
 import glob
 import os
 import json
-from Tweet import Tweet
+import csv
 
+from Tweet import Tweet
+from Crime import Crime
 
 def main(tweet_path, crime_path):
     tweets = load_tweets(tweet_path)
-    #crimes = load_crime_data(crime_path)
+    crimes = load_crime_data(crime_path)
     tweets_with_separated_hashtags = extract_hashtags(tweets)
 
 
@@ -14,20 +16,24 @@ def extract_hashtags(tweets):
     for tweet in tweets:
         tweet.hashtags = set([i[1:] for i in tweet.text.split() if i.startswith("#")])
 
+
 def load_crime_data(path):
     crimes = []
     counter = 0
 
     for root, dirs, files in os.walk(path):
-         for file in files:
-             print root, file
-             with open(os.path.join(root, file), "r") as auto:
-                 print "hello"
-                # load data
-                # loop through each line
-                # place each line into crime object.
-                # crimes.append(crime)
-    #return crimes
+        for file in files:
+            print root, file
+            with open(os.path.join(root, file), "r") as data_file:
+                reader = csv.reader(data_file, delimiter=',')
+                next(reader, None)
+                for entry in reader:
+                    crime = Crime(entry[0], entry[1], entry[2], entry[3],
+                              entry[4], entry[5], entry[6], entry[7],
+                              entry[8], entry[9], entry[10], entry[11])
+                    crimes.append(crime)
+    return crimes
+
 
 def load_tweets(path):
     tweets = []
@@ -52,4 +58,4 @@ def load_tweets(path):
 if __name__ == "__main__":
     # Place the folder containing your twitter data as the first parameter (leave the r in)
     # Place the folder containing your police data as the second parameter (leave the r in)
-    main(r"C:\Users\Ross\Downloads\Twitter",r"C:\Users\Ross\Downloads\2c16823eb45a2a8a3e3c5ce551ba51fae6787537")
+    main(r"C:\Users\Ross\Downloads\Twitter", r"C:\Users\Ross\Dropbox\IRDMGROUP\Crime")
