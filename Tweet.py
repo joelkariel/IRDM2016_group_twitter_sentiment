@@ -4,6 +4,7 @@ class Tweet:
     def __init__(self, country, date, latitude, longitude, placeName, placeType, profileLocation, text, tweetId,
                  username):
         self.country = country
+        self.timestamp = datetime.datetime.fromtimestamp(int(date / 1000))
         self.date = datetime.datetime.fromtimestamp(int(date / 1000)).strftime('%d-%m-%Y')
         self.latitude = latitude
         self.longitude = longitude
