@@ -1,385 +1,1751 @@
-Tweet ID: 6.25071493786e+17
-Tweet: كل عام وانت بخير يالغالي وعسي عامك سعاده وحب وتفرح بالهنا كله. @ Hyde Park Rose Garden https://t.co/IOs9k4IG3W
-Username: Halawala
-Date: 1437863632000
-latitude: 51.503933
-longitude: -0.154941
+Tweet ID: 6.63291886586e+17
+Tweet ID: 6.6329193115e+17
+Tweet: Happy Sunday  everyone! 💙
+Username: NYR_Official
+Date: 08-11-2015
+latitude: 51.52745777
+longitude: -0.02165618
 -------------------------------------------
-Tweet ID: 6.250715149e+17
-Tweet: Chilling with my baby! 🍼💛🍼 @ Croydon https://t.co/MWPtUiVQUD
-Username: JOSHUACMB
-Date: 1437863637000
-latitude: 51.329779
-longitude: -0.108387
+Tweet ID: 6.63292242485e+17
+Tweet: Spectacular fireworks towards the end of last night's display in Victoria Park! #bonfirenight… https://t.co/Ruz8ZSYAdG
+Username: paolobrand
+Date: 08-11-2015
+latitude: 51.5345815
+longitude: -0.04448083
 -------------------------------------------
-Tweet ID: 6.25071707767e+17
-Tweet: Cooking with potato hearts ❤️. #potato #Florence #Firenze #homecooking #eataly #eatyourveggies… https://t.co/zi54OdGL76
-Username: NoAbbiamoWiFi
-Date: 1437863683000
-latitude: 51.517913
-longitude: -0.067141
+Tweet ID: 6.63292442264e+17
+Tweet: #London ❤️ Nějaké tipy ještě co navštívit? :) @ Oxford Street - Central London https://t.co/Jg69sgSt3U
+Username: dblogcz
+Date: 08-11-2015
+latitude: 51.5159309
+longitude: -0.13644548
 -------------------------------------------
-Tweet ID: 6.25071837258e+17
-Tweet: Amazing race by these pros! My bet was on the red jockey and he won by a split second! Woot!… https://t.co/VCmQLI86kw
-Username: natiloublanco
-Date: 1437863713000
-latitude: 51.461131
-longitude: -0.161875
+Tweet ID: 6.63292751996e+17
+Tweet: A delicious dinner last night before seeing Wicked! 🙆 #latergram @ Amico Bio - Holborn https://t.co/TRGCCfqZyz
+Username: KatieVibes
+Date: 08-11-2015
+latitude: 51.5170021
+longitude: -0.1253034
 -------------------------------------------
-Tweet ID: 6.25071871659e+17
-Tweet: شفت روبي مال ارسنال فان تي في اليوم وتكلمت معاه شوي .. شخص حبوب اكثر من اللي كنت متوقعه
-Username: Abdulra7man_98
-Date: 1437863722000
-latitude: 51.514597
-longitude: -0.161524
+Tweet ID: 6.6329319296e+17
+Tweet: Kaboom. Obligatory #fireworks shot. 🎆 #latergram @ Battersea Park Fireworks https://t.co/XV2wUZLkS0
+Username: LouEleVine
+Date: 08-11-2015
+latitude: 51.47787606
+longitude: -0.15059455
 -------------------------------------------
-Tweet ID: 6.25072798227e+17
-Tweet: I'm on my way  Harry! Wait for meeeee..... 🚊🇬🇧 @ Platform 9 3/4  London King's Cross https://t.co/yLKCSA0ppU
-Username: juve_metoda
-Date: 1437863943000
-latitude: 51.5309
-longitude: -0.1233
+Tweet ID: 6.63293331209e+17
+Tweet: Sunday morning GRIT Strength... Boom!! . . . . . .  #Repost lmgrit with repostapp. ・・・ Success isn't… https://t.co/SMCdTlj7UR
+Username: MillieStarcke
+Date: 08-11-2015
+latitude: 51.1131401
+longitude: -0.11711
 -------------------------------------------
-Tweet ID: 6.25073230115e+17
-Tweet: - الله يمد بعمر الايام اللي بيني وبينك ويملي كل وقتي ولحظاتي فيك 💙.. @ Hyde Park https://t.co/rpi46StHRX
-Username: HessaAlnaqbi
-Date: 1437864046000
-latitude: 51.5149
-longitude: -0.16819
--------------------------------------------
-Tweet ID: 6.25073352316e+17
-Tweet: Now I think this is when I need a selfie stick. 😜 These mini-hats don't fit me very well... Or… https://t.co/nrk2LMKMsy
-Username: natiloublanco
-Date: 1437864075000
-latitude: 51.461131
-longitude: -0.161875
--------------------------------------------
-Tweet ID: 6.25074420785e+17
-Tweet: Wind 0 km/h ---. Barometer 1016.2 mb  Rising slowly. Temperature 14.5 °C. Rain today 4.5 mm. Humidity 69%
-Username: twinklekit
-Date: 1437864329000
-latitude: 51.379444
-longitude: 0.099444
--------------------------------------------
-Tweet ID: 6.25075499107e+17
-Tweet: So this just happened on our street. Luckily  no one was seriously hurt. #CountYourBlessings… https://t.co/iBRKDShqxe
-Username: SanjSurati
-Date: 1437864586000
-latitude: 51.400295
-longitude: -0.354732
--------------------------------------------
-Tweet ID: 6.25075569207e+17
-Tweet: I wanted to steal him I swear!! 🇬🇧🌳 @ Hyde Park  London https://t.co/34O648Mf69
-Username: A_Tariq2
-Date: 1437864603000
-latitude: 51.508611
-longitude: -0.163611
--------------------------------------------
-Tweet ID: 6.25075615621e+17
-Tweet: So this just happened on our street. Luckily  no one was seriously hurt. #CountYourBlessings… https://t.co/1Q7VK4wkjP
-Username: SanjSurati
-Date: 1437864614000
-latitude: 51.400295
-longitude: -0.354732
--------------------------------------------
-Tweet ID: 6.25076361188e+17
-Tweet: Buckingham palace .. من أمام قصر باكينجهام #London #royalty @ Buckingham Palace https://t.co/XGicore6SW
-Username: biker4ever1000
-Date: 1437864792000
-latitude: 51.506219
-longitude: -0.144337
--------------------------------------------
-Tweet ID: 6.25076974085e+17
-Tweet: في فترة رئاسة منصور البلوي .. صحيفة As الاسبانية الشهيره ، الظاهرة البرازيلي رونالدو : لو اريد المال سأذهب للاتحاد .. http://t.co/SA3Jw27Jqc
-Username: yusef01020
-Date: 1437864938000
-latitude: 50.942865
-longitude: -0.161186
--------------------------------------------
-Tweet ID: 6.25077748353e+17
-Tweet: So...we did this. 😳 @ The Official London Eye https://t.co/TfYlrPWzze
-Username: BaltimoreBird4
-Date: 1437865123000
-latitude: 51.503425
-longitude: -0.119469
--------------------------------------------
-Tweet ID: 6.25078090352e+17
-Tweet: Wind 0.0 kts NNE. Barometer 1019.8 hPa  Steady. Temperature 14.7 °C. Rain today 0.0 mm. Humidity 83%
+Tweet ID: 6.63294899073e+17
+Tweet: Wind 7.1 kts SW. Barometer 1026.0 hPa  Falling. Temperature 14.4 °C. Rain today 0.0 mm. Humidity 86%
 Username: NewhavenTownWx
-Date: 1437865204000
+Date: 08-11-2015
 latitude: 50.8
-longitude: 0.046944
+longitude: 0.04694444
 -------------------------------------------
-Tweet ID: 6.25078115745e+17
-Tweet: Wind 0.0 mph WSW. Barometer 1017.2 hPa  Falling slowly. Temperature 12.5 °C. Rain today 0.0 mm. Humidity 35%
-Username: sgweather1
-Date: 1437865210000
-latitude: 51.617222
-longitude: -0.601111
+Tweet ID: 6.63294912659e+17
+Tweet: Wind 3.0 mph SSW. Barometer 1022.29 mb  Falling. Temperature 13.1 °C. Rain today 0.0 mm. Humidity 93%
+Username: Weather_SS17
+Date: 08-11-2015
+latitude: 51.86805556
+longitude: 0.73111111
 -------------------------------------------
-Tweet ID: 6.25078120694e+17
-Tweet: Wind 3 mph WSW. Barometer 1016.7 mb  Falling slowly. Temperature 15.8 °C. Rain today 0.0 mm. Humidity 73%
+Tweet ID: 6.63294935425e+17
+Tweet: Wind 4 mph SSW. Barometer 1022.4 mb  Falling slowly. Temperature 13.7 °C. Rain today 0.0 mm. Humidity 89%
 Username: JeffWak
-Date: 1437865212000
+Date: 08-11-2015
 latitude: 51.4825
-longitude: 0.376667
+longitude: 0.37666667
 -------------------------------------------
-Tweet ID: 6.25078201598e+17
-Tweet: Wind 0 km/h ---. Barometer 1016.2 mb  Steady. Temperature 14.2 °C. Rain today 0.0 mm. Humidity 71%
+Tweet ID: 6.63294945584e+17
+Tweet: Wind 1.6 mph WSW. Barometer 1023.2 hPa  Falling slowly. Temperature 12.9 °C. Rain today 0.0 mm. Humidity 90%
+Username: sgweather1
+Date: 08-11-2015
+latitude: 51.61722222
+longitude: -0.60111111
+-------------------------------------------
+Tweet ID: 6.63295057685e+17
+Tweet: Current situation...full day of touristy stuff on the schedule...gotta give the camera a workout! 😊😊😊… https://t.co/2KCRwzdNsd
+Username: tifosodibirra
+Date: 08-11-2015
+latitude: 51.46829809
+longitude: -0.41913585
+-------------------------------------------
+Tweet ID: 6.63295081819e+17
+Tweet: Wind 6 km/h SE. Barometer 1020.0 mb  Falling. Temperature 13.7 °C. Rain today 0.3 mm. Humidity 85%
 Username: twinklekit
-Date: 1437865231000
-latitude: 51.379444
-longitude: 0.099444
+Date: 08-11-2015
+latitude: 51.37944444
+longitude: 0.09944444
 -------------------------------------------
-Tweet ID: 6.25078265624e+17
-Tweet: وهذا رابط خبر الظاهرة رونالدو ( عام ٢٠٠٧ ) .. فترة رئاسة منصور البلوي .. من صحيفة AS الاسبانية الشهيره :  http://t.co/uOGszzCaZ1
-Username: yusef01020
-Date: 1437865246000
-latitude: 50.886712
-longitude: -0.16302
+Tweet ID: 6.63296958787e+17
+Tweet: Finally at the age where he's ready to learn! Great trial day! #Rugby… https://t.co/LT4YD7qILJ
+Username: sacha_bynoe
+Date: 08-11-2015
+latitude: 51.46855733
+longitude: -0.29551395
 -------------------------------------------
-Tweet ID: 6.2507993965e+17
-Tweet: "I have conversed with the spiritual Sun. I saw him on Primrose Hill”. William Blake. Sin duda  la… https://t.co/VO39ic955W
-Username: Elenavama
-Date: 1437865645000
-latitude: 51.53698
-longitude: -0.14733
+Tweet ID: 6.63298173592e+17
+Tweet: This poem... 😢😭 Sums it all up perfectly #LestWeForget. Taken at the stunning #AirForcesMemorial in… https://t.co/s0H0pXanBI
+Username: Gunnersh1va
+Date: 08-11-2015
+latitude: 51.4378
+longitude: -0.565
 -------------------------------------------
-Tweet ID: 6.25080296191e+17
-Tweet: Not normally my style of beer. — Drinking a Petrus Dubbel Bruin by @BrouwerijDB @ Langley  — http://t.co/6clfkq5Ze8
-Username: robdicksonuk
-Date: 1437865730000
-latitude: 51.5016
-longitude: -0.542793
+Tweet ID: 6.6329864889e+17
+Tweet: 24hr pit stop. 😴😴😴😴😴 (@ Beaconsfield Motorway Services (Extra) in Beaconsfield  Buckinghamshire) https://t.co/WJM1mOgcaH
+Username: Billyhiggs117
+Date: 08-11-2015
+latitude: 51.58828298
+longitude: -0.62778711
 -------------------------------------------
-Tweet ID: 6.25080356896e+17
-Tweet: Just Big Ben  nbd. 🇬🇧😁 @ Big Ben https://t.co/GrpIaBHJW7
-Username: xo_xtinaaa
-Date: 1437865745000
-latitude: 51.501843
-longitude: -0.123107
+Tweet ID: 6.63298686492e+17
+Tweet: Wind 2.0 mph S. Barometer 1022.05 mb  Falling. Temperature 13.3 °C. Rain today 0.0 mm. Humidity 92%
+Username: Weather_SS17
+Date: 08-11-2015
+latitude: 51.86805556
+longitude: 0.73111111
 -------------------------------------------
-Tweet ID: 6.25081251616e+17
-Tweet: Red Hot. 👠 #VamShoes #shoes #shoeporn #boots #art #fashion #exhibition #vamuseum… https://t.co/gb9dMBjybJ
-Username: vzaree
-Date: 1437865958000
-latitude: 51.496707
-longitude: -0.172345
+Tweet ID: 6.63298857674e+17
+Tweet: Wind 1 km/h ESE. Barometer 1019.8 mb  Falling. Temperature 14.0 °C. Rain today 0.3 mm. Humidity 84%
+Username: twinklekit
+Date: 08-11-2015
+latitude: 51.37944444
+longitude: 0.09944444
 -------------------------------------------
-Tweet ID: 6.25081333535e+17
-Tweet: Wind 3.1 mph SW. Barometer 1005.2 mb  Falling slowly. Temperature 13.8 °C. Rain today 0.0 mm. Humidity 81%
+Tweet ID: 6.63299660095e+17
+Tweet: 😍😍😍 Lounge love! Finished room coming soon... 👀 #studiosuss #interiors @ London  United Kingdom https://t.co/nIUpVM5Eny
+Username: studiosuss
+Date: 08-11-2015
+latitude: 51.5072
+longitude: -0.1275
+-------------------------------------------
+Tweet ID: 6.63299780215e+17
+Tweet: "Come on guys" said the ref to The New Day But they were too busy bootying around.  @xavierwoodsphd… https://t.co/tUCJRxZIJz
+Username: rominicole
+Date: 08-11-2015
+latitude: 51.50277164
+longitude: 0.00253923
+-------------------------------------------
+Tweet ID: 6.63300612265e+17
+Tweet: Thank you Costa for your Tiramisù Latte. 😍🎄🎅 #costa #tiramisulatte #breakfast #sunday @ Hendon… https://t.co/TbTeH8Fs5s
+Username: pinkpunk83
+Date: 08-11-2015
+latitude: 51.583
+longitude: -0.226
+-------------------------------------------
+Tweet ID: 6.63301370322e+17
+Tweet: Wind 2.2 mph S. Barometer 1028.4 mb  Falling. Temperature 13.3 °C. Rain today 0.0 mm. Humidity 93%
 Username: DerekCopsey
-Date: 1437865978000
-latitude: 51.676667
-longitude: 0.310833
+Date: 08-11-2015
+latitude: 51.67666667
+longitude: 0.31083333
 -------------------------------------------
-Tweet ID: 6.25081646753e+17
-Tweet: Throwback Sunday to when me and My girl Garfelicia used to be together...... 😔 she was my juan &… https://t.co/yIVM0OJdND
-Username: JohnHerculesTV
-Date: 1437866052000
-latitude: 51.384615
-longitude: -0.219019
+Tweet ID: 6.63301580302e+17
+Tweet: What a show... 😍 @ The Hurlingham Club https://t.co/vlOyzDTo1H
+Username: rosannabell
+Date: 08-11-2015
+latitude: 51.46705716
+longitude: -0.20130558
 -------------------------------------------
-Tweet ID: 6.25081971711e+17
-Tweet: Wind 0 km/h ---. Barometer 1016.3 mb  Rising slowly. Temperature 13.9 °C. Rain today 0.0 mm. Humidity 72%
+Tweet ID: 6.63302003444e+17
+Tweet: Today in Oxfordshire. ✨ @ Bladon https://t.co/wjt2polSlr
+Username: JoshGriffithsss
+Date: 08-11-2015
+latitude: 51.8167
+longitude: -1.35
+-------------------------------------------
+Tweet ID: 6.63302459931e+17
+Tweet: Wind 2.0 mph S. Barometer 1021.44 mb  Falling. Temperature 13.6 °C. Rain today 0.0 mm. Humidity 92%
+Username: Weather_SS17
+Date: 08-11-2015
+latitude: 51.86805556
+longitude: 0.73111111
+-------------------------------------------
+Tweet ID: 6.63302632934e+17
+Tweet: Wind 3 km/h ESE. Barometer 1019.5 mb  Falling. Temperature 14.3 °C. Rain today 0.3 mm. Humidity 83%
 Username: twinklekit
-Date: 1437866130000
-latitude: 51.379444
-longitude: 0.099444
+Date: 08-11-2015
+latitude: 51.37944444
+longitude: 0.09944444
 -------------------------------------------
-Tweet ID: 6.25082724551e+17
-Tweet: Bi höh dese altımıza sıçıcakmışız gibi çek panpa 😂   I think  we came from Monkeys!   #London… https://t.co/5pKDx8d3tF
-Username: DidarMelik
-Date: 1437866309000
-latitude: 51.49622
-longitude: -0.175856
+Tweet ID: 6.63303636454e+17
+Tweet: اخر يوم لنا في لندن .... الإعلامي المبدع هيثم الحمادي @haithmalhamadi  حوار عفوي جميل في الهايد بارك… https://t.co/MUbrGnwzUe
+Username: alsuwelem
+Date: 08-11-2015
+latitude: 51.49833333
+longitude: -0.15861111
 -------------------------------------------
-Tweet ID: 6.25082831795e+17
-Tweet: Dream wardrobe. 👠 #shoes #shoeporn #victoriaandalbertmuseum #wardrobe #vamuseum #exhibition #fashion… https://t.co/4c3npfuVQT
-Username: vzaree
-Date: 1437866335000
-latitude: 51.496718
-longitude: -0.172963
+Tweet ID: 6.63304053565e+17
+Tweet: I was so proud to have the opportunity to plant poppies in the Tower of London moat last year. Lest… https://t.co/W6RVbefBg8
+Username: SeasonsVilla
+Date: 08-11-2015
+latitude: 51.50848289
+longitude: -0.07747913
 -------------------------------------------
-Tweet ID: 6.25083057516e+17
-Tweet: #CamdenRocksClub is rocking tonight! Who's coming down? Come to say hi! #MaleficentAdventures… https://t.co/CVGyTmI7Pe
-Username: MissMaleMartini
-Date: 1437866389000
-latitude: 51.539231
-longitude: -0.142233
+Tweet ID: 6.63304072909e+17
+Tweet: Off to Hogwarts! ✨#harrypotter #gryffindor @ Platform 9 3/4  London King's Cross https://t.co/JQ4Slchqs0
+Username: HzqDun
+Date: 08-11-2015
+latitude: 51.53311578
+longitude: -0.12331854
 -------------------------------------------
-Tweet ID: 6.25084614282e+17
-Tweet: @RichardCollabro goodnight to you and your beard! 😂 I'm waiting to board a coach in London   won't be home til about 8am 😕 x
-Username: Mermaids_Kiss
-Date: 1437866760000
-latitude: 51.495495
-longitude: -0.144705
+Tweet ID: 6.63304393388e+17
+Tweet: Such a lush display at Ally Pally last night. ❤️✨ @ Fireworks Festival Alexandra Palace https://t.co/ag0lLyCIaS
+Username: DanielaDeeLFL
+Date: 08-11-2015
+latitude: 51.5935402
+longitude: -0.13022
 -------------------------------------------
-Tweet ID: 6.25085086032e+17
-Tweet: Bina nit per a tothom. Demà a Cambridge!
-Username: SrCarbonell
-Date: 1437866872000
-latitude: 51.405437
-longitude: 0.106153
+Tweet ID: 6.63304685228e+17
+Tweet: #Repost @sikhanddread with repostapp. ・・・ Portrait shot of Summer from recent bridal wear shoot… https://t.co/MIyaPYBAPy
+Username: LSamuelsmua
+Date: 08-11-2015
+latitude: 51.6333
+longitude: 0.166667
 -------------------------------------------
-Tweet ID: 6.2508574596e+17
-Tweet: Wind 0 km/h ---. Barometer 1016.0 mb  Steady. Temperature 13.8 °C. Rain today 0.0 mm. Humidity 72%
+Tweet ID: 6.63305007119e+17
+Tweet: Our "bolovo" over here is called scotch eggs! Haven't tried them  but they look great! #london… https://t.co/wlF0LZOu9i
+Username: jocnjr
+Date: 08-11-2015
+latitude: 51.50561185
+longitude: -0.09043019
+-------------------------------------------
+Tweet ID: 6.63305344052e+17
+Tweet: To Bristol 🚈🚈🚋🚋 طال الصبر...متى بس قطار الحرمين ومترو الرياض... @ Padington https://t.co/xjh6OF7QGk
+Username: MajedsAlahmadi
+Date: 08-11-2015
+latitude: 51.51922203
+longitude: -0.19047624
+-------------------------------------------
+Tweet ID: 6.63305945318e+17
+Tweet: Avui anyoro London més que mai. ❤️ #london #westminster @ London  United Kingdom https://t.co/p17R6yL7lR
+Username: jenniferouass
+Date: 08-11-2015
+latitude: 51.5072
+longitude: -0.1275
+-------------------------------------------
+Tweet ID: 6.6330601626e+17
+Tweet: A busy Brands Hatch but still the Hailwoods Grandstand is shut. Waste of a good view in my opinion! @… https://t.co/HhVlIOUGUA
+Username: Rihadan
+Date: 08-11-2015
+latitude: 51.35990126
+longitude: 0.26012082
+-------------------------------------------
+Tweet ID: 6.63306090483e+17
+Tweet: Oh  oh... 😮👶❤ 😂#BD #GM @ London  United Kingdom https://t.co/w0dvzQYTOi
+Username: saandraa_12
+Date: 08-11-2015
+latitude: 51.5072
+longitude: -0.1275
+-------------------------------------------
+Tweet ID: 6.63306167968e+17
+Tweet: We have #knitted #gifts aplenty at #thelondonartisan Open today until 5 @trumanbrewery #London Come say hello! 😃 https://t.co/2Cb4yz21mr
+Username: chelacheknits
+Date: 08-11-2015
+latitude: 51.52107841
+longitude: -0.07264146
+-------------------------------------------
+Tweet ID: 6.63306233127e+17
+Tweet: Wind 2.0 mph S. Barometer 1021.34 mb  Falling. Temperature 13.8 °C. Rain today 0.0 mm. Humidity 91%
+Username: Weather_SS17
+Date: 08-11-2015
+latitude: 51.86805556
+longitude: 0.73111111
+-------------------------------------------
+Tweet ID: 6.63306259463e+17
+Tweet: Gin  lamb  knots  bush  all the good things in life with the babe @thecocozaza in LDN. #london… https://t.co/fdRzpfwgJL
+Username: luisnicomorales
+Date: 08-11-2015
+latitude: 51.5285301
+longitude: -0.0781758
+-------------------------------------------
+Tweet ID: 6.63306407866e+17
+Tweet: Wind 1 km/h ESE. Barometer 1019.4 mb  Falling. Temperature 14.6 °C. Rain today 0.3 mm. Humidity 82%
 Username: twinklekit
-Date: 1437867030000
-latitude: 51.379444
-longitude: 0.099444
+Date: 08-11-2015
+latitude: 51.37944444
+longitude: 0.09944444
 -------------------------------------------
-Tweet ID: 6.2508588873e+17
-Tweet: Peace out  London. ✌🏼️ @ Tower Bridge https://t.co/1jAH3ZmlCu
-Username: gg_runs
-Date: 1437867064000
-latitude: 51.505149
-longitude: -0.075585
+Tweet ID: 6.60763770303e+17
+Tweet: ▶️Tap to Play . Try this OUTDOOR cardio and ab workout! . 1⃣Start with feet together and in push-up… https://t.co/SEPY9f5AW8
+Username: thyagoborgesb
+Date: 01-11-2015
+latitude: 51.5072
+longitude: -0.1275
 -------------------------------------------
-Tweet ID: 6.25085952877e+17
-Tweet: Alexander McQueen. Stunning. 😮❤️ #SavageBeauty #lastdays #London @ Victoria and Albert Museum https://t.co/a5nLQdMgJ6
-Username: margotchristmas
-Date: 1437867079000
-latitude: 51.496707
-longitude: -0.172345
+Tweet ID: 6.60764169332e+17
+Tweet: London Fog. There's a runway out there somewhere and a Qatar Airways plane if you squint. #foggy… https://t.co/FJudI2rM5v
+Username: Mary_Roeder
+Date: 01-11-2015
+latitude: 51.45979722
+longitude: -0.44718427
 -------------------------------------------
-Tweet ID: 6.25071493786e+17
-Tweet: كل عام وانت بخير يالغالي وعسي عامك سعاده وحب وتفرح بالهنا كله. @ Hyde Park Rose Garden https://t.co/IOs9k4IG3W
-Username: Halawala
-Date: 1437863632000
-latitude: 51.503933
-longitude: -0.154941
+Tweet ID: 6.60764617619e+17
+Tweet: When you arrive at the airport to find that Dua's wearing FLARES. 💖💖💖 @ London Heathrow Airport -… https://t.co/k9y2Y07Fbr
+Username: JulianRupert
+Date: 01-11-2015
+latitude: 51.47045771
+longitude: -0.45844688
 -------------------------------------------
-Tweet ID: 6.250715149e+17
-Tweet: Chilling with my baby! 🍼💛🍼 @ Croydon https://t.co/MWPtUiVQUD
-Username: JOSHUACMB
-Date: 1437863637000
-latitude: 51.329779
-longitude: -0.108387
+Tweet ID: 6.60764635395e+17
+Tweet: Kinda 🕰bsessed. @ Old Spitalfields Market https://t.co/RQcZLXBFyW
+Username: Jesssugden
+Date: 01-11-2015
+latitude: 51.5195947
+longitude: -0.07573739
 -------------------------------------------
-Tweet ID: 6.25071707767e+17
-Tweet: Cooking with potato hearts ❤️. #potato #Florence #Firenze #homecooking #eataly #eatyourveggies… https://t.co/zi54OdGL76
-Username: NoAbbiamoWiFi
-Date: 1437863683000
-latitude: 51.517913
-longitude: -0.067141
+Tweet ID: 6.60765432719e+17
+Tweet: “@Shell_McRaye: @jodes_xxx says she loves me  but I know she hates me! 💁🏼❤️❤️” I was still out of my face so don't remember this convo. ❤️ u
+Username: jodes_xxx
+Date: 01-11-2015
+latitude: 51.47638205
+longitude: 0.04370551
 -------------------------------------------
-Tweet ID: 6.25071837258e+17
-Tweet: Amazing race by these pros! My bet was on the red jockey and he won by a split second! Woot!… https://t.co/VCmQLI86kw
-Username: natiloublanco
-Date: 1437863713000
-latitude: 51.461131
-longitude: -0.161875
+Tweet ID: 6.6076565878e+17
+Tweet: Hi @htbchurch Onslow Square!! Sorry if I accidentally stole this cup of tea!! 🙃 #London @ HTB Onslow… https://t.co/7JyDPgOPoJ
+Username: rarmstar
+Date: 01-11-2015
+latitude: 51.49173876
+longitude: -0.17455757
 -------------------------------------------
-Tweet ID: 6.25071871659e+17
-Tweet: شفت روبي مال ارسنال فان تي في اليوم وتكلمت معاه شوي .. شخص حبوب اكثر من اللي كنت متوقعه
-Username: Abdulra7man_98
-Date: 1437863722000
-latitude: 51.514597
-longitude: -0.161524
+Tweet ID: 6.60765748789e+17
+Tweet: Wind 0.0 mph ENE. Barometer 1028.79 mb  Rising. Temperature 9.6 °C. Rain today 0.4 mm. Humidity 98%
+Username: Weather_SS17
+Date: 01-11-2015
+latitude: 51.86805556
+longitude: 0.73111111
 -------------------------------------------
-Tweet ID: 6.25072798227e+17
-Tweet: I'm on my way  Harry! Wait for meeeee..... 🚊🇬🇧 @ Platform 9 3/4  London King's Cross https://t.co/yLKCSA0ppU
-Username: juve_metoda
-Date: 1437863943000
-latitude: 51.5309
-longitude: -0.1233
--------------------------------------------
-Tweet ID: 6.25073230115e+17
-Tweet: - الله يمد بعمر الايام اللي بيني وبينك ويملي كل وقتي ولحظاتي فيك 💙.. @ Hyde Park https://t.co/rpi46StHRX
-Username: HessaAlnaqbi
-Date: 1437864046000
-latitude: 51.5149
-longitude: -0.16819
--------------------------------------------
-Tweet ID: 6.25073352316e+17
-Tweet: Now I think this is when I need a selfie stick. 😜 These mini-hats don't fit me very well... Or… https://t.co/nrk2LMKMsy
-Username: natiloublanco
-Date: 1437864075000
-latitude: 51.461131
-longitude: -0.161875
--------------------------------------------
-Tweet ID: 6.25074420785e+17
-Tweet: Wind 0 km/h ---. Barometer 1016.2 mb  Rising slowly. Temperature 14.5 °C. Rain today 4.5 mm. Humidity 69%
+Tweet ID: 6.60765887218e+17
+Tweet: Wind 0 km/h ---. Barometer 1027.4 mb  Rising slowly. Temperature 11.6 °C. Rain today 0.3 mm. Humidity 87%
 Username: twinklekit
-Date: 1437864329000
-latitude: 51.379444
-longitude: 0.099444
+Date: 01-11-2015
+latitude: 51.37944444
+longitude: 0.09944444
 -------------------------------------------
-Tweet ID: 6.25075499107e+17
-Tweet: So this just happened on our street. Luckily  no one was seriously hurt. #CountYourBlessings… https://t.co/iBRKDShqxe
-Username: SanjSurati
-Date: 1437864586000
-latitude: 51.400295
-longitude: -0.354732
+Tweet ID: 6.60766265926e+17
+Tweet: Happy Halloween! #díademuertos @ London  United Kingdom https://t.co/meHtbMoLOV
+Username: amymlynch
+Date: 01-11-2015
+latitude: 51.5072
+longitude: -0.1275
 -------------------------------------------
-Tweet ID: 6.25075569207e+17
-Tweet: I wanted to steal him I swear!! 🇬🇧🌳 @ Hyde Park  London https://t.co/34O648Mf69
-Username: A_Tariq2
-Date: 1437864603000
+Tweet ID: 6.60766596068e+17
+Tweet: A foggy start to Sunday  morning following Halloween - spooky! 👻🎃😱 I love how all these beautiful … https://t.co/lodcAbAEMj
+Username: ArtiDesigns
+Date: 01-11-2015
+latitude: 51.57182
+longitude: -0.09671
+-------------------------------------------
+Tweet ID: 6.60766619774e+17
+Tweet: Can't help but feel as if Van Gogh painted me 'cause my jumper complements his Sunflowers. #art… https://t.co/gVYQfXiHQp
+Username: PetrickGarcia
+Date: 01-11-2015
+latitude: 51.5087167
+longitude: -0.12810758
+-------------------------------------------
+Tweet ID: 6.60767316629e+17
+Tweet: What a way to end it. Glorious. 🏉 #rwc2015 #champions #arisesirrichie @ Twickenham Rugby Union Stadium https://t.co/JEi5TRWRSn
+Username: HaydenBairstow
+Date: 01-11-2015
+latitude: 51.45675776
+longitude: -0.34139899
+-------------------------------------------
+Tweet ID: 6.60767558875e+17
+Tweet: I'll see you soon. ✈️🏙 @ Big Ben https://t.co/CHJY3fXvkD
+Username: RachelTenorio
+Date: 01-11-2015
+latitude: 51.50075556
+longitude: -0.12466111
+-------------------------------------------
+Tweet ID: 6.60767606476e+17
+Tweet: Successful weekend in this beautiful city. 🍂🍃 @ Hyde Park  London https://t.co/awNhMnLyxR
+Username: kayla_sfg
+Date: 01-11-2015
 latitude: 51.508611
 longitude: -0.163611
 -------------------------------------------
-Tweet ID: 6.25075615621e+17
-Tweet: So this just happened on our street. Luckily  no one was seriously hurt. #CountYourBlessings… https://t.co/1Q7VK4wkjP
-Username: SanjSurati
-Date: 1437864614000
-latitude: 51.400295
-longitude: -0.354732
+Tweet ID: 6.60767808146e+17
+Tweet: Mean #legday #workout today right after a cxwork class. #abs and #legs on fire. #fitnessaddict… https://t.co/voKHQhbcd4
+Username: deepthinkXII
+Date: 01-11-2015
+latitude: 51.5312347
+longitude: -0.1049753
 -------------------------------------------
-Tweet ID: 6.25076361188e+17
-Tweet: Buckingham palace .. من أمام قصر باكينجهام #London #royalty @ Buckingham Palace https://t.co/XGicore6SW
-Username: biker4ever1000
-Date: 1437864792000
-latitude: 51.506219
-longitude: -0.144337
+Tweet ID: 6.60767854011e+17
+Tweet: You either die a hero or you live long enough to see yourself become the villain. #HarveyDent… https://t.co/oJkKCLIPPO
+Username: PatmanAdventure
+Date: 01-11-2015
+latitude: 51.53867548
+longitude: -0.05703288
 -------------------------------------------
-Tweet ID: 6.25076974085e+17
-Tweet: في فترة رئاسة منصور البلوي .. صحيفة As الاسبانية الشهيره ، الظاهرة البرازيلي رونالدو : لو اريد المال سأذهب للاتحاد .. http://t.co/SA3Jw27Jqc
-Username: yusef01020
-Date: 1437864938000
-latitude: 50.942865
-longitude: -0.161186
+Tweet ID: 6.60767969317e+17
+Tweet: .. ياليت الصدفه اتجيبه على دربي .. واناظر فيه 🙇🏻 @ Mezzah Lounge - Harrods https://t.co/ueZNlKhFoE
+Username: MBS_G6R
+Date: 01-11-2015
+latitude: 51.4986094
+longitude: -0.16278009
 -------------------------------------------
-Tweet ID: 6.25077748353e+17
-Tweet: So...we did this. 😳 @ The Official London Eye https://t.co/TfYlrPWzze
-Username: BaltimoreBird4
-Date: 1437865123000
-latitude: 51.503425
-longitude: -0.119469
+Tweet ID: 6.60768211106e+17
+Tweet: . . في لندن الغربه وفي لندن الشوق وفي ديرة الاجواد قلبٍ شقاوي . هنــاك عايشن بين الاجواد… https://t.co/poAQLa5awv
+Username: Hadi_M88
+Date: 01-11-2015
+latitude: 51.5072
+longitude: -0.1275
 -------------------------------------------
-Tweet ID: 6.25078090352e+17
-Tweet: Wind 0.0 kts NNE. Barometer 1019.8 hPa  Steady. Temperature 14.7 °C. Rain today 0.0 mm. Humidity 83%
-Username: NewhavenTownWx
-Date: 1437865204000
-latitude: 50.8
-longitude: 0.046944
+Tweet ID: 6.60768348973e+17
+Tweet: O zaman bugün ne yapıyorsun? Sandığa gidiyorsun! Oyunu kullanıyorsun. Hatta bununla da kalmasan… https://t.co/FJlNgbB6d3
+Username: freakishcrn
+Date: 01-11-2015
+latitude: 51.47351703
+longitude: 0.01880703
 -------------------------------------------
-Tweet ID: 6.25078115745e+17
-Tweet: Wind 0.0 mph WSW. Barometer 1017.2 hPa  Falling slowly. Temperature 12.5 °C. Rain today 0.0 mm. Humidity 35%
-Username: sgweather1
-Date: 1437865210000
-latitude: 51.617222
-longitude: -0.601111
+Tweet ID: 6.60768649327e+17
+Tweet: Holy moly! 😳 @ Natural History Museum  London https://t.co/znL0zQZapX
+Username: jlnslv
+Date: 01-11-2015
+latitude: 51.49621983
+longitude: -0.17585618
 -------------------------------------------
-Tweet ID: 6.25078120694e+17
-Tweet: Wind 3 mph WSW. Barometer 1016.7 mb  Falling slowly. Temperature 15.8 °C. Rain today 0.0 mm. Humidity 73%
-Username: JeffWak
-Date: 1437865212000
-latitude: 51.4825
-longitude: 0.376667
+Tweet ID: 6.60768683519e+17
+Tweet: The floors drying up. Ric Roller could be happening today!!! 😁😁😁😁 @ Highbury https://t.co/N1GLSDQ4wR
+Username: itsricotimeuk
+Date: 01-11-2015
+latitude: 51.552
+longitude: -0.097
 -------------------------------------------
-Tweet ID: 6.25078201598e+17
-Tweet: Wind 0 km/h ---. Barometer 1016.2 mb  Steady. Temperature 14.2 °C. Rain today 0.0 mm. Humidity 71%
+Tweet ID: 6.6076935436e+17
+Tweet: Home time. 😩 @ Barbican  City Of London https://t.co/21N0koVthV
+Username: Torchels
+Date: 01-11-2015
+latitude: 51.52025742
+longitude: -0.09773306
+-------------------------------------------
+Tweet ID: 6.60769413114e+17
+Tweet: Happy November. Wonderful English garden along with pretty florals at this crisp airy morning. 🌲🌷… https://t.co/zTitk7rrHi
+Username: The_R_London
+Date: 01-11-2015
+latitude: 51.25800773
+longitude: -0.89622168
+-------------------------------------------
+Tweet ID: 6.60769469124e+17
+Tweet: Feeling rough af!! 😷😷😷😷 @ London  United Kingdom https://t.co/Z2Zh7BALT1
+Username: Gibbo91
+Date: 01-11-2015
+latitude: 51.5072
+longitude: -0.1275
+-------------------------------------------
+Tweet ID: 6.60769507481e+17
+Tweet: This is Bunny. He cleans the windows of  the fine establishments on #Portobello in his plus 4s. 🐰😇 @RBKCMarkets https://t.co/ISdEmMeDE3
+Username: sirplusclothing
+Date: 01-11-2015
+latitude: 51.49685464
+longitude: -0.21157122
+-------------------------------------------
+Tweet ID: 6.60769525844e+17
+Tweet: Wind 0.0 mph ENE. Barometer 1028.92 mb  Rising. Temperature 9.9 °C. Rain today 0.4 mm. Humidity 98%
+Username: Weather_SS17
+Date: 01-11-2015
+latitude: 51.86805556
+longitude: 0.73111111
+-------------------------------------------
+Tweet ID: 6.60769660922e+17
+Tweet: Wind 0 km/h ---. Barometer 1027.5 mb  Rising slowly. Temperature 11.9 °C. Rain today 0.3 mm. Humidity 83%
 Username: twinklekit
-Date: 1437865231000
-latitude: 51.379444
-longitude: 0.099444
+Date: 01-11-2015
+latitude: 51.37944444
+longitude: 0.09944444
 -------------------------------------------
-Tweet ID: 6.25078265624e+17
-Tweet: وهذا رابط خبر الظاهرة رونالدو ( عام ٢٠٠٧ ) .. فترة رئاسة منصور البلوي .. من صحيفة AS الاسبانية الشهيره :  http://t.co/uOGszzCaZ1
-Username: yusef01020
-Date: 1437865246000
-latitude: 50.886712
-longitude: -0.16302
+Tweet ID: 6.60769756518e+17
+Tweet: The emotions are high right now 😭! So glad we got to see this live tessaw05 "you and I - not even the… https://t.co/8ad1K6IVy9
+Username: savanna_adams4
+Date: 01-11-2015
+latitude: 51.50229744
+longitude: 0.0041156
+-------------------------------------------
+Tweet ID: 6.60770273491e+17
+Tweet: Hoy hice algo que jamás imaginé hacer en mi vida; ayudé voluntariamente a un inglés. Hagan fila para pegarme
+Username: kemedesigil
+Date: 01-11-2015
+latitude: 51.4704372
+longitude: -0.4864445
+-------------------------------------------
+Tweet ID: 6.60770579046e+17
+Tweet: The start of the #latergram still left in my camera roll from London & Italy... #jessshoeproject… https://t.co/miAr51J93n
+Username: JessicaHull4
+Date: 01-11-2015
+latitude: 51.49621983
+longitude: -0.17585618
+-------------------------------------------
+Tweet ID: 6.60770715395e+17
+Tweet: no better way to start a sunny Sunday at the market with your favourite customers! thanks… https://t.co/f9SutrjAtW
+Username: PomoBasilico
+Date: 01-11-2015
+latitude: 51.54174968
+longitude: -0.14595482
+-------------------------------------------
+Tweet ID: 6.60771716563e+17
+Tweet: Labrīt  mums jau iet jautri ar Paulu no paša rīta. 😃 (@ Vitas Un Paulas Rezidence) https://t.co/pIiPQXt7ig
+Username: Mc_Princesiite
+Date: 01-11-2015
+latitude: 51.28424666
+longitude: 0.20107608
+-------------------------------------------
+Tweet ID: 6.60772308559e+17
+Tweet: @TNLUK @MarkusFeehily Aaw  that's lovely  we're both happy then! 😃 😃
+Username: careyanita
+Date: 01-11-2015
+latitude: 51.49096606
+longitude: -0.10059809
+-------------------------------------------
+Tweet ID: 6.60772318642e+17
+Tweet: Her zaman yeterim kendi kendime.. Dağlarda kimsesiz dağlarda sessiz..😉😉 @ London  United Kingdom https://t.co/W8JZLonz62
+Username: ouzhandilek
+Date: 01-11-2015
+latitude: 51.5072
+longitude: -0.1275
+-------------------------------------------
+Tweet ID: 6.60773174729e+17
+Tweet: The souls of all saints ascending in these early hours. 💀💀💀 @ London - Forest Hill https://t.co/khfbhnB7Rg
+Username: nickhaley
+Date: 01-11-2015
+latitude: 51.43620796
+longitude: -0.04364038
+-------------------------------------------
+Tweet ID: 6.60773273824e+17
+Tweet: Temp 11.0°C. Wind > W @ 1.1 mph. Pressure 1041.3 mb. Rain 0.00 mm (0.00 mm/hr). Humidty 97%. Settled fine.
+Username: WaterbeachUK
+Date: 01-11-2015
+latitude: 52.2675
+longitude: 0.18361111
+-------------------------------------------
+Tweet ID: 6.60773289695e+17
+Tweet: Wind 0.0 mph ---. Barometer 1030.7 hPa  Rising slowly. Temperature 12.4 °C. Rain today 0.0 mm. Humidity 83%
+Username: sgweather1
+Date: 01-11-2015
+latitude: 51.61722222
+longitude: -0.60111111
+-------------------------------------------
+Tweet ID: 6.60773299891e+17
+Tweet: Wind 0.0 mph E. Barometer 1028.86 mb  Rising. Temperature 10.2 °C. Rain today 0.4 mm. Humidity 98%
+Username: Weather_SS17
+Date: 01-11-2015
+latitude: 51.86805556
+longitude: 0.73111111
+-------------------------------------------
+Tweet ID: 6.60773312483e+17
+Tweet: Wind 0.1 mph N. Barometer 1029.5 hPa  Rising slowly. Temperature 9.7 °C. Rain today 0.3 mm. Humidity 100%
+Username: collou60
+Date: 01-11-2015
+latitude: 51.49861111
+longitude: -0.54194444
+-------------------------------------------
+Tweet ID: 6.60773331034e+17
+Tweet: Wind 0 mph ---. Barometer 1029.1 mb  Rising slowly. Temperature 11.2 °C. Rain today 0.3 mm. Humidity 100%
+Username: JeffWak
+Date: 01-11-2015
+latitude: 51.4825
+longitude: 0.37666667
+-------------------------------------------
+Tweet ID: 6.60773437049e+17
+Tweet: Wind 3 km/h NE. Barometer 1027.6 mb  Rising slowly. Temperature 11.7 °C. Rain today 0.3 mm. Humidity 82%
+Username: twinklekit
+Date: 01-11-2015
+latitude: 51.37944444
+longitude: 0.09944444
+-------------------------------------------
+Tweet ID: 6.60774010079e+17
+Tweet: **FLASH SALE** One M/L left in each tracksuit NOW • £17.00. (I'm wearing M/L in the photos for people… https://t.co/dfM8JtHj4D
+Username: gracea_d
+Date: 01-11-2015
+latitude: 51.6167
+longitude: 0.0833333
+-------------------------------------------
+Tweet ID: 6.60774111988e+17
+Tweet: Hello November. 😻👊 #november #typography #definition #hellonovember @ Britannia Village https://t.co/wQ99KxmQsY
+Username: agnesx
+Date: 01-11-2015
+latitude: 51.5042181
+longitude: 0.02254722
+-------------------------------------------
+Tweet ID: 6.60774240103e+17
+Tweet: "...and if not  He is still good..." Daniel 3. Shot from my stroll thru Notting Hill.  #Repost… https://t.co/Cd3xHexPJV
+Username: makilingmiracle
+Date: 01-11-2015
+latitude: 51.50977414
+longitude: -0.19371283
+-------------------------------------------
+Tweet ID: 6.6077433942e+17
+Tweet: Recent image from this weeks rebranding shoot w/ motivational speaker @cherlenewilson. Photography… https://t.co/GpLN0Bze0s
+Username: SashaCrossMUA
+Date: 01-11-2015
+latitude: 51.49215092
+longitude: -0.15831468
+-------------------------------------------
+Tweet ID: 6.60774563765e+17
+Tweet: перекроив все планы  схватил фотик и побежал фиксировать таящую на глазах мистику. таким я себе и… https://t.co/OBXjBp5T17
+Username: arenei
+Date: 01-11-2015
+latitude: 51.5013
+longitude: -0.112
+-------------------------------------------
+Tweet ID: 6.60774607281e+17
+Tweet: Now ministering Sister Memory leading worship songs  #ThanksGivingService. Month Of #PRAISE. @… https://t.co/rZM442rXwN
+Username: RCCGbrentwood
+Date: 01-11-2015
+latitude: 51.6297531
+longitude: 0.3262357
+-------------------------------------------
+Tweet ID: 6.60774766509e+17
+Tweet: Morning! ☀️🍂🍁🚴🏽 #cycling #autumn #parks @ Addington Park https://t.co/fB28HHBHKk
+Username: Kiranmp
+Date: 01-11-2015
+latitude: 51.35500547
+longitude: -0.03796915
+-------------------------------------------
+Tweet ID: 6.60775443432e+17
+Tweet: Regent's Street yesterday ☀️.  November  you better be good!  #MyBritishOlympus  #thisislondon… https://t.co/6RaZ1Xibxb
+Username: stef_daydreamer
+Date: 01-11-2015
+latitude: 51.51298993
+longitude: -0.13992911
+-------------------------------------------
+Tweet ID: 6.60776287305e+17
+Tweet: Sod washing up today  come to our house & let us make you Sunday Roast & bloody Mary's! 🍴 #islington… https://t.co/p2xkQPB7Ww
+Username: DeadDollsHouse
+Date: 01-11-2015
+latitude: 51.5420265
+longitude: -0.1031795
+-------------------------------------------
+Tweet ID: 6.60776582077e+17
+Tweet: Halloween dinner at Il Mascalzone after seeing Spectre. Enjoyable film & a slap-up Italian. What's… https://t.co/Q2G1p7Ij0r
+Username: thnkngmnscrmpt
+Date: 01-11-2015
+latitude: 51.46453766
+longitude: -0.21498382
+-------------------------------------------
+Tweet ID: 6.60776643658e+17
+Tweet: sainsburys was this a "spot the deliberate mistake" banner? #halloween was ruined I tell you! @… https://t.co/wug7TCZfFO
+Username: Ellenmarydwyer
+Date: 01-11-2015
+latitude: 51.47211014
+longitude: -0.17191079
+-------------------------------------------
+Tweet ID: 6.60777042372e+17
+Tweet: #Repost @blacksheepsoup  ・・・ ✨⭕️.〽️ 2⃣.0⃣✨ MORE FOOTAGE FROM THE NIGHT FOR THOSE WHO MISSED IT!!! IT… https://t.co/eWwmxCj2bg
+Username: OfficialJ_C
+Date: 01-11-2015
+latitude: 51.5198364
+longitude: -0.074639
+-------------------------------------------
+Tweet ID: 6.60777075142e+17
+Tweet: Wind 1.0 mph ENE. Barometer 1028.89 mb  Steady. Temperature 10.3 °C. Rain today 0.4 mm. Humidity 97%
+Username: Weather_SS17
+Date: 01-11-2015
+latitude: 51.86805556
+longitude: 0.73111111
+-------------------------------------------
+Tweet ID: 6.60777131384e+17
+Tweet: Sólo a mí se me ocurre quedar para batirme al squash la mañana siguiente de Halloween.  Aquí huele a muerto.
+Username: jesusrubio
+Date: 01-11-2015
+latitude: 51.5395712
+longitude: -0.055223
+-------------------------------------------
+Tweet ID: 6.60777212112e+17
+Tweet: Wind 0 km/h ---. Barometer 1027.6 mb  Rising slowly. Temperature 11.0 °C. Rain today 0.3 mm. Humidity 85%
+Username: twinklekit
+Date: 01-11-2015
+latitude: 51.37944444
+longitude: 0.09944444
+-------------------------------------------
+Tweet ID: 6.60777465645e+17
+Tweet: Importantísimos 3 puntos ayer contra el @spursofficial vaya trabajo de equipo! Recupérate pronto… https://t.co/feYrUgSIKm
+Username: luis_Garciam10
+Date: 01-11-2015
+latitude: 51.5072
+longitude: -0.1275
+-------------------------------------------
+Tweet ID: 6.68375301576e+17
+Tweet: Spanish Churros sprinkled with Cinnamon & Sugar with a side of Chocolate sauce! 💛 #ChurrosGarcia… https://t.co/biCHR1lOpM
+Username: JanePang
+Date: 22-11-2015
+latitude: 51.51643416
+longitude: -0.12961888
+-------------------------------------------
+Tweet ID: 6.68375819346e+17
+Tweet: Getting to grips with circular knitting using the double pointed needle method... #dpns… https://t.co/1eE5tLg3f9
+Username: Rosielbard
+Date: 22-11-2015
+latitude: 51.58051838
+longitude: -0.03285723
+-------------------------------------------
+Tweet ID: 6.68375842104e+17
+Tweet: وهنا هيثرو .. لندن! @ Heathrow Terminal 2 : The Queen's Terminal https://t.co/K0KjjANyip
+Username: mohd_radwan
+Date: 22-11-2015
+latitude: 51.47022627
+longitude: -0.44892269
+-------------------------------------------
+Tweet ID: 6.68375920144e+17
+Tweet: Wind 1.0 mph WSW. Barometer 1013.82 mb  Rising. Temperature 0.9 °C. Rain today 0.0 mm. Humidity 91%
+Username: Weather_SS17
+Date: 22-11-2015
+latitude: 51.86805556
+longitude: 0.73111111
+-------------------------------------------
+Tweet ID: 6.68375965572e+17
+Tweet: Wind 3 km/h NNW. Barometer 1012.1 mb  Rising. Temperature 1.8 °C. Rain today 0.0 mm. Humidity 79%
+Username: twinklekit
+Date: 22-11-2015
+latitude: 51.37944444
+longitude: 0.09944444
+-------------------------------------------
+Tweet ID: 6.68376136297e+17
+Tweet: Quite the view from the balcony of my flat. 💀💀💀 #London #londonlife @ London  United Kingdom https://t.co/Sscv303Iqa
+Username: Whyy_S0_Serious
+Date: 22-11-2015
+latitude: 51.51643416
+longitude: -0.12961888
+-------------------------------------------
+Tweet ID: 6.68377051909e+17
+Tweet: 👀Jheez  #Repost @jo_renwick with repostapp. ・・・ 😏 #TheBerkeley #Spa #Swim #Relax… https://t.co/AXRj4nvkcg
+Username: MJOBRIEN91
+Date: 22-11-2015
+latitude: 51.50210396
+longitude: -0.15602389
+-------------------------------------------
+Tweet ID: 6.68377135531e+17
+Tweet: #محرم_الوعي 🎥 اهل البيت عليهم السلام كانوا سبّاقين لإقامة مجالس الحسين. و كانوا عمالقة بالبكاء على… https://t.co/5S9g0lXK5h
+Username: Huss2in3li
+Date: 22-11-2015
+latitude: 51.54784342
+longitude: -0.18126209
+-------------------------------------------
+Tweet ID: 6.68377435051e+17
+Tweet: Meu Burro está bem de boa hoje...apenas relaxando. 😂  #Donkey #shrek #shreksadventure 💖 @ Smart… https://t.co/PPi95Fsw1Q
+Username: CarolinaBR
+Date: 22-11-2015
+latitude: 51.5228767
+longitude: -0.1230879
+-------------------------------------------
+Tweet ID: 6.68377611627e+17
+Tweet: Good Morning Lovely #Followers !! 😘 I am looking forward to a day at home cooking for friends ...… https://t.co/LqMIiYZOdU
+Username: eric_lanlard
+Date: 22-11-2015
+latitude: 51.51643416
+longitude: -0.12961888
+-------------------------------------------
+Tweet ID: 6.68377834294e+17
+Tweet: How cute is this?! ❤️ a splash of #colour in the #urban #jungle #DiscoverLondon #travel #wanderlust… https://t.co/PUM4Rwgq6Z
+Username: moniqa_b
+Date: 22-11-2015
+latitude: 51.51317
+longitude: -0.15888
+-------------------------------------------
+Tweet ID: 6.68378131142e+17
+Tweet: شكرًا لأصحاب الدعوة .. يسعدني أن أشارك بإلقاء محاضرة  مساء الأربعاء القادم ٢٥ نوفمبر في قاعة الشيخة… https://t.co/OwqsfM0rQs
+Username: Drfahadalnajjar
+Date: 22-11-2015
+latitude: 51.5104256
+longitude: -0.1387973
+-------------------------------------------
+Tweet ID: 6.68378213841e+17
+Tweet: قول يازمان ارجع يا زمان. Its only been 10 years #Jumani #WeGoWayBack @… https://t.co/VkvjTsHala
+Username: PicoGuindy
+Date: 22-11-2015
+latitude: 51.52237592
+longitude: -0.16385298
+-------------------------------------------
+Tweet ID: 6.68378439155e+17
+Tweet: Wind 1.0 mph W. Barometer 1013.89 mb  Rising. Temperature 1.0 °C. Rain today 0.0 mm. Humidity 91%
+Username: Weather_SS17
+Date: 22-11-2015
+latitude: 51.86805556
+longitude: 0.73111111
+-------------------------------------------
+Tweet ID: 6.68378875354e+17
+Tweet: Definitely my favourite hairdresser EVER! Thanks for the ✨AMAZING✨ transformation! Love you! ❤️💇🏼😍😘… https://t.co/e17d0SAEgo
+Username: Fantochechem
+Date: 22-11-2015
+latitude: 51.51643416
+longitude: -0.12961888
+-------------------------------------------
+Tweet ID: 6.683798808e+17
+Tweet: I did it !! 🌟Bought this gorgeous celebboutique jumpsuit before the #21dayshakechallenge and it was a… https://t.co/ZyZpXuxfxV
+Username: janeysbeauty
+Date: 22-11-2015
+latitude: 51.63020418
+longitude: 0.05046871
+-------------------------------------------
+Tweet ID: 6.6838041887e+17
+Tweet: See our latest #NorthLondon  England #job and click to apply: Medical Sales Representatives — Primary Care —... - https://t.co/dDBzE3xC3k
+Username: QuintilesCareer
+Date: 22-11-2015
+latitude: 51.4309209
+longitude: -0.0936496
+-------------------------------------------
+Tweet ID: 6.68380559153e+17
+Tweet: They fought in the Script. Rerum Italic. tom. i. fol. 74 verso. fol. 75  recto ) and Shaw's Travels (p. 105—113) in the silence of the
+Username: e_gibbon
+Date: 22-11-2015
+latitude: 51.5
+longitude: -0.13
+-------------------------------------------
+Tweet ID: 6.68380953971e+17
+Tweet: Wind 1.0 mph WSW. Barometer 1013.79 mb  Rising. Temperature 1.1 °C. Rain today 0.0 mm. Humidity 90%
+Username: Weather_SS17
+Date: 22-11-2015
+latitude: 51.86805556
+longitude: 0.73111111
+-------------------------------------------
+Tweet ID: 6.68381252216e+17
+Tweet: 💙💙Cleaned the flat for over an hour does that count as cardio?? 💙💙 Now for normal clothes a selfie … https://t.co/lvUa9omj2B
+Username: nicolearistides
+Date: 22-11-2015
+latitude: 51.51643416
+longitude: -0.12961888
+-------------------------------------------
+Tweet ID: 6.68381945295e+17
+Tweet: Spending Sunday with the Girls!  ❤️💛💚💙💜 #sunday #sundayfunday #sundaylunch #sundayafternoon #girls… https://t.co/FUhOOpqmWN
+Username: madamemerillou
+Date: 22-11-2015
+latitude: 51.51643416
+longitude: -0.12961888
+-------------------------------------------
+Tweet ID: 6.68382120495e+17
+Tweet: Друзья подтянулись...))) #pegion #dove #friends #london #food #life #fun #inspiration @ Cocomaya https://t.co/53xZMVJn5X
+Username: snowwwyy
+Date: 22-11-2015
+latitude: 51.5147438
+longitude: -0.1652932
+-------------------------------------------
+Tweet ID: 6.6838215803e+17
+Tweet: Clearly there's something more exciting happening outside than inside.  #knowledge… https://t.co/OG7bngBnOt
+Username: EasthamsFitness
+Date: 22-11-2015
+latitude: 51.46
+longitude: -0.32
+-------------------------------------------
+Tweet ID: 6.68382607345e+17
+Tweet: Trying to look wise at Underwire Festival writers Q&A with the rest of the nominees yesterday. (📷… https://t.co/iXPEacHlra
+Username: MsGillianPark
+Date: 22-11-2015
+latitude: 51.54480239
+longitude: -0.05525507
+-------------------------------------------
+Tweet ID: 6.68382859745e+17
+Tweet: I just can't stop watching this! 😂❤️😂   So much fun at the Zoom Games yesterday celebrating 3rd Zoom… https://t.co/2JQ6dCUCIE
+Username: ZoomEdita
+Date: 22-11-2015
+latitude: 51.59476158
+longitude: -0.1296218
+-------------------------------------------
+Tweet ID: 6.68383427843e+17
+Tweet: Temp 6.1°C. Wind > SE @ 1.4 mph. Pressure 1018.6 mb. Rain 0.00 mm (0.00 mm/hr). Humidty 72%. Fine weather.
+Username: WaterbeachUK
+Date: 22-11-2015
+latitude: 52.2675
+longitude: 0.18361111
+-------------------------------------------
+Tweet ID: 6.68383430573e+17
+Tweet: Wind 6.8 kts NE. Barometer 1017.5 hPa  Rising slowly. Temperature 4.5 °C. Rain today 0.0 mm. Humidity 80%
+Username: NewhavenTownWx
+Date: 22-11-2015
+latitude: 50.8
+longitude: 0.04694444
+-------------------------------------------
+Tweet ID: 6.68383434768e+17
+Tweet: Wind 3.1 mph NNW. Barometer 1015.8 hPa  Rising. Temperature 5.9 °C. Rain today 0.0 mm. Humidity 42%
+Username: sgweather1
+Date: 22-11-2015
+latitude: 51.61722222
+longitude: -0.60111111
+-------------------------------------------
+Tweet ID: 6.6838344858e+17
+Tweet: Wind 0.4 mph WNW. Barometer 1014.4 hPa  Rising slowly. Temperature 4.2 °C. Rain today 0.0 mm. Humidity 86%
+Username: collou60
+Date: 22-11-2015
+latitude: 51.49861111
+longitude: -0.54194444
+-------------------------------------------
+Tweet ID: 6.68383467358e+17
+Tweet: Wind 2 mph WSW. Barometer 1013.5 mb  Rising. Temperature 3.1 °C. Rain today 0.0 mm. Humidity 82%
+Username: JeffWak
+Date: 22-11-2015
+latitude: 51.4825
+longitude: 0.37666667
+-------------------------------------------
+Tweet ID: 6.68383469786e+17
+Tweet: Wind 1.0 mph W. Barometer 1013.82 mb  Rising. Temperature 1.3 °C. Rain today 0.0 mm. Humidity 90%
+Username: Weather_SS17
+Date: 22-11-2015
+latitude: 51.86805556
+longitude: 0.73111111
+-------------------------------------------
+Tweet ID: 6.68383521066e+17
+Tweet: Wind 1 km/h NW. Barometer 1012.2 mb  Rising slowly. Temperature 2.8 °C. Rain today 0.0 mm. Humidity 82%
+Username: twinklekit
+Date: 22-11-2015
+latitude: 51.37944444
+longitude: 0.09944444
+-------------------------------------------
+Tweet ID: 6.68383981315e+17
+Tweet: @Anton_AFCA nice word! 😊
+Username: SpeakinFluently
+Date: 22-11-2015
+latitude: 51.5205747
+longitude: -0.1232147
+-------------------------------------------
+Tweet ID: 6.68384062001e+17
+Tweet: Details of the day. 🌲 @ London  United Kingdom https://t.co/6S7Y0TNZny
+Username: MarteNyheim
+Date: 22-11-2015
+latitude: 51.51643416
+longitude: -0.12961888
+-------------------------------------------
+Tweet ID: 6.68384064475e+17
+Tweet: Cold but glorious in Windsor Great Park this morning. Actually  REALLY cold. #stravacycling… https://t.co/AiDIWMJBtf
+Username: cg__
+Date: 22-11-2015
+latitude: 51.42510176
+longitude: -0.59710157
+-------------------------------------------
+Tweet ID: 6.68384674327e+17
+Tweet: So sunny  yet so cold  why it makes no sense!!!!! 囧 @ West Ealing https://t.co/oi6QPGMEJm
+Username: ASonia
+Date: 22-11-2015
+latitude: 51.51898
+longitude: -0.31498
+-------------------------------------------
+Tweet ID: 6.683847005e+17
+Tweet: Being chased by toothless down the escalator! #keepingupwiththesymonds… https://t.co/vtatGnGzdo
+Username: symonds_chris
+Date: 22-11-2015
+latitude: 51.51421774
+longitude: -0.14937758
+-------------------------------------------
+Tweet ID: 6.68385312704e+17
+Tweet: Finally on our way home. ✈ @ Heathrow Terminal 5 https://t.co/VRbwJifosj
+Username: zimm3rmann
+Date: 22-11-2015
+latitude: 51.4718799
+longitude: -0.48604565
+-------------------------------------------
+Tweet ID: 6.6838542296e+17
+Tweet: It's all about London. 🇬🇧 @ Oxford Circus https://t.co/EkdU8RRwNu
+Username: salvatoriema
+Date: 22-11-2015
+latitude: 51.5153
+longitude: -0.142
+-------------------------------------------
+Tweet ID: 6.68385796471e+17
+Tweet: NEXT SATURDAY!!! 🌟🌟🌟 Don't forget to book! Limited spaces only!!! 💜💜💜 @stronggirlto will be hosting… https://t.co/xkFRe9l9uR
+Username: LydiaMok
+Date: 22-11-2015
+latitude: 51.56619482
+longitude: -0.12190122
+-------------------------------------------
+Tweet ID: 6.68385800036e+17
+Tweet: New veggie dish - Achari cauliflower  pomegranate powder  Jerusalem artichokes  truffle  papdi. Part… https://t.co/rHIi9d9msR
+Username: KricketBrixton
+Date: 22-11-2015
+latitude: 51.46344121
+longitude: -0.11246843
+-------------------------------------------
+Tweet ID: 6.68385986029e+17
+Tweet: Wind 1.0 mph W. Barometer 1013.92 mb  Rising. Temperature 1.7 °C. Rain today 0.0 mm. Humidity 90%
+Username: Weather_SS17
+Date: 22-11-2015
+latitude: 51.86805556
+longitude: 0.73111111
+-------------------------------------------
+Tweet ID: 6.68386217315e+17
+Tweet: Might have to start writing bars again.. 😂🎻👓 #snapchat #songwriting #composing #producing #publishing… https://t.co/uzjWJk8sSp
+Username: reissrobinson
+Date: 22-11-2015
+latitude: 51.51643416
+longitude: -0.12961888
+-------------------------------------------
+Tweet ID: 6.68386497457e+17
+Tweet: #tbt and my Sunday in #bricklane . 💛🎨 _____________________________________ #bricklane #london… https://t.co/3PZmJG51Je
+Username: MapySuarez
+Date: 22-11-2015
+latitude: 51.52194444
+longitude: -0.07166667
+-------------------------------------------
+Tweet ID: 6.6838650858e+17
+Tweet: At a preview screening for the new Pixar movie with Lewis. Followed by Director's Q&A. #pixar… https://t.co/TpPBWMCBdh
+Username: NolanMicron
+Date: 22-11-2015
+latitude: 51.51
+longitude: -0.13444444
+-------------------------------------------
+Tweet ID: 6.68387274527e+17
+Tweet: Wahhoooo it's off to the printers! ❤️💛💚💙💜  Which means you lovely people can now pre order it (go to… https://t.co/oQc4xkUPBv
+Username: alicetams
+Date: 22-11-2015
+latitude: 51.51643416
+longitude: -0.12961888
+-------------------------------------------
+Tweet ID: 6.68387676614e+17
+Tweet: She's as beautiful as she is uplifting. She's home and I love her. @… https://t.co/US7IQgfxCH
+Username: JooeelB
+Date: 22-11-2015
+latitude: 51.66133721
+longitude: -0.09182914
+-------------------------------------------
+Tweet ID: 6.68387751206e+17
+Tweet: Hello everyone from London's iconic #BigBen So beautiful! 😍Antes de volver a casa visita obligada a… https://t.co/H1V1pPJ3BG
+Username: ramsesonline
+Date: 22-11-2015
+latitude: 51.50075556
+longitude: -0.12466111
+-------------------------------------------
+Tweet ID: 6.68387802297e+17
+Tweet: Anyeonn .. 👋🏼 @ Buckingham Palace https://t.co/8Wg99bLikS
+Username: Quecx
+Date: 22-11-2015
+latitude: 51.50083333
+longitude: -0.14194444
+-------------------------------------------
+Tweet ID: 6.68387964402e+17
+Tweet: It's official  Starlord and Gamorra are a match!! Life is so simple when 6.5 Yo... #leBaba… https://t.co/yMckaPrO5z
+Username: olliecouillaud
+Date: 22-11-2015
+latitude: 51.4194756
+longitude: -0.1615701
+-------------------------------------------
+Tweet ID: 6.68388279537e+17
+Tweet: @NewYorkHabitat London  marvelous! Today it's partly cloudy with 2.8°C (37°F). #tip Some guides for London https://t.co/N9GME6eOaX
+Username: TalesToursTips
+Date: 22-11-2015
+latitude: 51.5073509
+longitude: -0.1277583
+-------------------------------------------
+Tweet ID: 6.68388363398e+17
+Tweet: Café da manhã! @ Muxima https://t.co/BLWA6OnFL0
+Username: Joatan
+Date: 22-11-2015
+latitude: 51.5339871
+longitude: -0.0271667
+-------------------------------------------
+Tweet ID: 6.68388503827e+17
+Tweet: Wind 1.0 mph W. Barometer 1013.82 mb  Rising. Temperature 2.2 °C. Rain today 0.0 mm. Humidity 89%
+Username: Weather_SS17
+Date: 22-11-2015
+latitude: 51.86805556
+longitude: 0.73111111
+-------------------------------------------
+Tweet ID: 6.70915597673e+17
+Tweet: I miss Malaysian food! 🐠🐓🐑🐮🐣🦃 @ London  United Kingdom https://t.co/Um8qqPpLri
+Username: azieazlina
+Date: 29-11-2015
+latitude: 51.51643416
+longitude: -0.12961888
+-------------------------------------------
+Tweet ID: 6.70916168661e+17
+Tweet: Chino!!! you're a big boy now!!! 🤗🤗🤗 @ Brass Rail Salt Beef Bar At… https://t.co/k9Taj6QHxo
+Username: nurse_ruff
+Date: 29-11-2015
+latitude: 51.51444845
+longitude: -0.15400863
+-------------------------------------------
+Tweet ID: 6.70916745029e+17
+Tweet: Även träffsäker på sången! #billiejean #michaeljackson ✌🏼️ @ Lyric… https://t.co/jNiWmevKCs
+Username: per_mattsson
+Date: 29-11-2015
+latitude: 51.511111
+longitude: -0.133889
+-------------------------------------------
+Tweet ID: 6.70916874516e+17
+Tweet: ❤️ my dear London... Soon I'll be passing by these beautiful lights! Never get tired of it... @… https://t.co/9J4sBN5aAz
+Username: Dinholondres
+Date: 29-11-2015
+latitude: 51.51194444
+longitude: -0.08077778
+-------------------------------------------
+Tweet ID: 6.70916954577e+17
+Tweet: Heading home home! ☺️ @ London King's Cross Station https://t.co/jHqRDdOUGU
+Username: DanielHopeUK
+Date: 29-11-2015
+latitude: 51.53236712
+longitude: -0.12353349
+-------------------------------------------
+Tweet ID: 6.70917265924e+17
+Tweet: Me segue lá... Hoje tem jogo.. Come on Chelsea. #snapchat @ Tottenham Hotspur Football Club https://t.co/TzNQTaHAxu
+Username: fellipearnold
+Date: 29-11-2015
+latitude: 51.60327351
+longitude: -0.06638318
+-------------------------------------------
+Tweet ID: 6.70917623623e+17
+Tweet: Wind 10.0 mph WSW. Barometer 1007.12 mb  Steady. Temperature 12.3 °C. Rain today 0.0 mm. Humidity 72%
+Username: Weather_SS17
+Date: 29-11-2015
+latitude: 51.86805556
+longitude: 0.73111111
+-------------------------------------------
+Tweet ID: 6.70917734126e+17
+Tweet: Oops. No milk or eggs: Sunday breakfast fail. How convenient that Love Walk Café is just down the hill?! 😃😋 https://t.co/2EqdF0SrSC
+Username: tmmb
+Date: 29-11-2015
+latitude: 51.47082196
+longitude: -0.09288694
+-------------------------------------------
+Tweet ID: 6.70917816636e+17
+Tweet: حفل مشروع ليلى في لندن.  Mashroo Laila Concert in London   If you are living in London and want to… https://t.co/0nd0L1lsT7
+Username: SEKSEKAS
+Date: 29-11-2015
+latitude: 51.51970456
+longitude: -0.09384764
+-------------------------------------------
+Tweet ID: 6.70918092529e+17
+Tweet: En el Palacio. 🏰 (@ Buckingham Palace in London  Greater London w/ @alaneitorr) https://t.co/uxnW3EA3Cb
+Username: Kaarlizha
+Date: 29-11-2015
+latitude: 51.50130303
+longitude: -0.14210343
+-------------------------------------------
+Tweet ID: 6.70918889338e+17
+Tweet: Feeling Christmassy at the ideal home show Christmas! ☃❄️ @ Olympia  London https://t.co/JyBOLozRsb
+Username: alexbrookey
+Date: 29-11-2015
+latitude: 51.4965003
+longitude: -0.21018631
+-------------------------------------------
+Tweet ID: 6.70919321389e+17
+Tweet: Patent Pending making sweet  sweet music. A little shaky due to immense moshing. 😜  #gig #rock #show… https://t.co/iUC0jRyPC6
+Username: LiteMorgan
+Date: 29-11-2015
+latitude: 51.50389998
+longitude: 0.00369631
+-------------------------------------------
+Tweet ID: 6.7091943495e+17
+Tweet: Around the #clock of #bigben and from different point of views.. Stuck with #london ... 🇬🇧 !!!… https://t.co/5MfjlwX9j5
+Username: dionisisadil
+Date: 29-11-2015
+latitude: 51.51643416
+longitude: -0.12961888
+-------------------------------------------
+Tweet ID: 6.70919788693e+17
+Tweet: When you add "dated a Nigerian Man" to your cv...to show that you can get through everything life throws at you. LOL! 😂😂😂😂😂👀🙈🙈😩😩😂
+Username: ManLikeDebs
+Date: 29-11-2015
+latitude: 51.4723382
+longitude: -0.0561813
+-------------------------------------------
+Tweet ID: 6.70920137986e+17
+Tweet: Wind 9.0 mph WSW. Barometer 1006.84 mb  Steady. Temperature 12.3 °C. Rain today 0.0 mm. Humidity 72%
+Username: Weather_SS17
+Date: 29-11-2015
+latitude: 51.86805556
+longitude: 0.73111111
+-------------------------------------------
+Tweet ID: 6.7092014237e+17
+Tweet: Wind 13.4 kts NNW. Barometer 1014.2 hPa  Rising slowly. Temperature 12.5 °C. Rain today 0.0 mm. Humidity 81%
+Username: NewhavenTownWx
+Date: 29-11-2015
+latitude: 50.8
+longitude: 0.04694444
+-------------------------------------------
+Tweet ID: 6.70920150506e+17
+Tweet: Wind 6.0 mph WNW. Barometer 1007.6 hPa  Steady. Temperature 11.8 °C. Rain today 0.0 mm. Humidity 39%
+Username: sgweather1
+Date: 29-11-2015
+latitude: 51.61722222
+longitude: -0.60111111
+-------------------------------------------
+Tweet ID: 6.70920152272e+17
+Tweet: Temp 12.1°C. Wind > S @ 15.4 mph. Pressure 1007.9 mb. Rain 0.00 mm (0.00 mm/hr). Humidty 69%. Showery  bright intervals.
+Username: WaterbeachUK
+Date: 29-11-2015
+latitude: 52.2675
+longitude: 0.18361111
+-------------------------------------------
+Tweet ID: 6.70920198896e+17
+Tweet: Wind 5.2 mph W. Barometer 1007.7 hPa  Rising slowly. Temperature 12.4 °C. Rain today 1.5 mm. Humidity 71%
+Username: collou60
+Date: 29-11-2015
+latitude: 51.49861111
+longitude: -0.54194444
+-------------------------------------------
+Tweet ID: 6.70920291196e+17
+Tweet: Wind 11 km/h N. Barometer 1004.7 mb  Steady. Temperature 12.3 °C. Rain today 0.3 mm. Humidity 63%
+Username: twinklekit
+Date: 29-11-2015
+latitude: 51.37944444
+longitude: 0.09944444
+-------------------------------------------
+Tweet ID: 6.70920308233e+17
+Tweet: Oh lazy Sunday's .... 🎈 ----------------------------------Chanda | available online | free shipping… https://t.co/w48sl2inP1
+Username: DARMAKI_LONDON
+Date: 29-11-2015
+latitude: 51.50722222
+longitude: -0.18027778
+-------------------------------------------
+Tweet ID: 6.70920382078e+17
+Tweet: Golden State Warriors are just amazing right now! 🏀
+Username: AranSuleyman
+Date: 29-11-2015
+latitude: 51.45298447
+longitude: 0.02686308
+-------------------------------------------
+Tweet ID: 6.7092046911e+17
+Tweet: £1 for this  but this man floats ok! 😂 @ Trafalgar Square https://t.co/Pt2E1OoyUK
+Username: ashikinmusa
+Date: 29-11-2015
+latitude: 51.50805556
+longitude: -0.12805556
+-------------------------------------------
+Tweet ID: 6.70921263339e+17
+Tweet: Went to the #airport yesterday to say hi to my mom and her friend — with loads of #luggage. ✈🛄  Hey … https://t.co/FjzHV0E8gv
+Username: jenner_ong
+Date: 29-11-2015
+latitude: 51.4718799
+longitude: -0.48604565
+-------------------------------------------
+Tweet ID: 6.70921545263e+17
+Tweet: Carnaby street! ❤️🤗 #outandaboutinlondontown #london #carnabystreet… https://t.co/VAFAhewGOg
+Username: azmeenamohiddin
+Date: 29-11-2015
+latitude: 51.51329124
+longitude: -0.13900351
+-------------------------------------------
+Tweet ID: 6.70921767692e+17
+Tweet: Strong Xmas hat game today! Let the ice skating begin! 🎅🏼☃⛸🎄 @ Canary Wharf https://t.co/Y5MhSoKuZt
+Username: Ryanbtweets
+Date: 29-11-2015
+latitude: 51.5061417
+longitude: -0.02655
+-------------------------------------------
+Tweet ID: 6.70922611519e+17
+Tweet: just before the night got even messier. ❣ @ Hilton London Docklands Riverside Hotel https://t.co/MeXBzcUAEN
+Username: ItssPresh_
+Date: 29-11-2015
+latitude: 51.50453143
+longitude: -0.03303911
+-------------------------------------------
+Tweet ID: 6.70922657039e+17
+Tweet: Wind 9.0 mph WSW. Barometer 1006.71 mb  Steady. Temperature 12.3 °C. Rain today 0.0 mm. Humidity 72%
+Username: Weather_SS17
+Date: 29-11-2015
+latitude: 51.86805556
+longitude: 0.73111111
+-------------------------------------------
+Tweet ID: 6.70923698225e+17
+Tweet: @BTCare so now I don't get TV channels becoz my order is still open!?! No 1 in 2day 2 help! More hassle 4 me tomorrow! Thanx BT! 😡
+Username: losmandris
+Date: 29-11-2015
+latitude: 51.534267
+longitude: -0.2273586
+-------------------------------------------
+Tweet ID: 6.70923715006e+17
+Tweet: Lady D's girls. ❤️❤️ @ Lady Dinah's Cat Emporium https://t.co/elZxnMyZrt
+Username: DanDeacon
+Date: 29-11-2015
+latitude: 51.525177
+longitude: -0.0706581
+-------------------------------------------
+Tweet ID: 6.70924071262e+17
+Tweet: felicidades a una de las personas más imprescindible en mi vida  gracias por todo y más. Te quiero… https://t.co/8Do5cBOWfh
+Username: lhxmeme
+Date: 29-11-2015
+latitude: 51.51643416
+longitude: -0.12961888
+-------------------------------------------
+Tweet ID: 6.7092408983e+17
+Tweet: There's a roaring fire here greatdixterofficial Christmas Fair. Come in out of the cold! #greatdixter… https://t.co/nboTSGGC1i
+Username: boardandbowl
+Date: 29-11-2015
+latitude: 50.99675461
+longitude: 0.59154365
+-------------------------------------------
+Tweet ID: 6.70925169859e+17
+Tweet: @CFCJourno strikers are over rated!!! 😀😀😀
+Username: Bparlma
+Date: 29-11-2015
+latitude: 51.4945
+longitude: -0.210789
+-------------------------------------------
+Tweet ID: 6.70925171965e+17
+Tweet: Wind 9.0 mph WSW. Barometer 1006.34 mb  Steady. Temperature 12.5 °C. Rain today 0.0 mm. Humidity 72%
+Username: Weather_SS17
+Date: 29-11-2015
+latitude: 51.86805556
+longitude: 0.73111111
+-------------------------------------------
+Tweet ID: 6.70925903678e+17
+Tweet: Hangover/ flu got me feeling like meh! 😩#hangover #flu #london #gayboy #instagay #blackandwhite… https://t.co/88SS2Vw7sR
+Username: Shayne_Ako
+Date: 29-11-2015
+latitude: 51.51643416
+longitude: -0.12961888
+-------------------------------------------
+Tweet ID: 6.70927031493e+17
+Tweet: Bring Me The Horizon killed it last night. Like I actually think I died. 😍🤘🏻 @ Alexandra Palace https://t.co/lVxZQVQjlp
+Username: The_Chaotic_One
+Date: 29-11-2015
+latitude: 51.59350874
+longitude: -0.13005146
+-------------------------------------------
+Tweet ID: 6.70927460742e+17
+Tweet: Ridiculously silly splattering of the smoking team with me at TMC Artists Christmas party! Great… https://t.co/xyEcAjLYLn
+Username: IonaMaclean
+Date: 29-11-2015
+latitude: 51.4663544
+longitude: -0.1291728
+-------------------------------------------
+Tweet ID: 6.70927578535e+17
+Tweet: 🇬🇧 | 🇮🇹 Not always we're strong enough to carry on with our dreams 🙄🙄... For so many reasons!… https://t.co/7ad3Zofd2Q
+Username: SaraCellini88
+Date: 29-11-2015
+latitude: 51.51643416
+longitude: -0.12961888
+-------------------------------------------
+Tweet ID: 6.70927687734e+17
+Tweet: Wind 9.0 mph WSW. Barometer 1006.23 mb  Steady. Temperature 12.7 °C. Rain today 0.0 mm. Humidity 72%
+Username: Weather_SS17
+Date: 29-11-2015
+latitude: 51.86805556
+longitude: 0.73111111
+-------------------------------------------
+Tweet ID: 6.70927744885e+17
+Tweet: I remember my happy days in London. Only a week has passed and already I miss the city. #mochilerostv… https://t.co/O1vX4USdGM
+Username: Coral_Garcia10
+Date: 29-11-2015
+latitude: 51.50514919
+longitude: -0.07558474
+-------------------------------------------
+Tweet ID: 6.70927844127e+17
+Tweet: Wind 6 km/h WSW. Barometer 1004.4 mb  Falling slowly. Temperature 12.6 °C. Rain today 0.3 mm. Humidity 63%
+Username: twinklekit
+Date: 29-11-2015
+latitude: 51.37944444
+longitude: 0.09944444
+-------------------------------------------
+Tweet ID: 6.70927860531e+17
+Tweet: 🇬🇧 | 🇮🇹 Not always we're strong enough to carry on with our dreams 🙄🙄... For so many reasons!… https://t.co/sGMQeDqfVt
+Username: SaraCellini88
+Date: 29-11-2015
+latitude: 51.51643416
+longitude: -0.12961888
+-------------------------------------------
+Tweet ID: 6.70928160918e+17
+Tweet: The New.... 😂 officially the 🔚 of the Heavyweight division! 🚮 https://t.co/l4miijoGla
+Username: AimeeespinAimee
+Date: 29-11-2015
+latitude: 51.48106717
+longitude: 0.0633386
+-------------------------------------------
+Tweet ID: 6.70928646753e+17
+Tweet: دايـم تطالبـني بــ غـزل... شلـون لي اوصـف "غــزال!"... لكنـي اصبـر وامتهـل... عن وصـف حسنـك… https://t.co/rJg1gtNiwc
+Username: SCaReYE
+Date: 29-11-2015
+latitude: 51.517125
+longitude: -0.11457778
+-------------------------------------------
+Tweet ID: 6.70928674083e+17
+Tweet: Güzel şeyler yüzünden.. @ The Barge House https://t.co/hSAh9RY9Cf
+Username: neslimis
+Date: 29-11-2015
+latitude: 51.53606489
+longitude: -0.08094197
+-------------------------------------------
+Tweet ID: 6.7092903416e+17
+Tweet: HHK AKATSUKI..  The Excitement Is Mad Real!!! 😁😁😁🙌🏾🙌🏾🙌🏾🙌🏾✌🏾️✌🏾✌🏾✌🏾  __________  If You Know You… https://t.co/seODdHMFiW
+Username: CharleyVanPurpz
+Date: 29-11-2015
+latitude: 51.50987411
+longitude: -0.05759005
+-------------------------------------------
+Tweet ID: 6.70929854473e+17
+Tweet: then the night was over 😂🤗. @ Hilton London Docklands Riverside Hotel https://t.co/6JlPPHZTif
+Username: ItssPresh_
+Date: 29-11-2015
+latitude: 51.50453143
+longitude: -0.03303911
+-------------------------------------------
+Tweet ID: 6.70929965589e+17
+Tweet: @CikNurAinaDila OMG!!!! Exactly!!! 😒😒😒😒 Hate it!!!
+Username: Mell_Lissa94
+Date: 29-11-2015
+latitude: 51.57462232
+longitude: 0.03318106
+-------------------------------------------
+Tweet ID: 6.70930206019e+17
+Tweet: Wind 11.0 mph WSW. Barometer 1005.93 mb  Falling. Temperature 12.9 °C. Rain today 0.0 mm. Humidity 70%
+Username: Weather_SS17
+Date: 29-11-2015
+latitude: 51.86805556
+longitude: 0.73111111
+-------------------------------------------
+Tweet ID: 6.65843257986e+17
+Tweet: I really want one if these this morning! Come and grab one before I do! #cinnimonrolls… https://t.co/8OmtOkyHez
+Username: BunstonBakes
+Date: 15-11-2015
+latitude: 51.5509949
+longitude: -0.0753095
+-------------------------------------------
+Tweet ID: 6.65844222848e+17
+Tweet: We've just noticed that our madeleines matched our #kitchenaid mixers...   Coincidence??!… https://t.co/3zdOtVipkX
+Username: madamemerillou
+Date: 15-11-2015
+latitude: 51.51643416
+longitude: -0.12961888
+-------------------------------------------
+Tweet ID: 6.65844869542e+17
+Tweet: Awesome night at Wembley Arena last night watching Megadeth  Lamb of God and Children of Bodom! Pass… https://t.co/bgeghP2xFw
+Username: nik_sampson
+Date: 15-11-2015
+latitude: 51.55817848
+longitude: -0.28220621
+-------------------------------------------
+Tweet ID: 6.65845259218e+17
+Tweet: Miss you  London! 😭 #london #uk #throwback #londoneye #bigben #mylove… https://t.co/uDsmDASezy
+Username: BarbaraMariaFF
+Date: 15-11-2015
+latitude: 51.50336252
+longitude: -0.1193414
+-------------------------------------------
+Tweet ID: 6.65845489284e+17
+Tweet: This @Topshop coat is still a favourite. 💖 https://t.co/2mADtnalJk
+Username: Sophs_Ritchie
+Date: 15-11-2015
+latitude: 51.01508807
+longitude: -0.46048265
+-------------------------------------------
+Tweet ID: 6.65846624317e+17
+Tweet: Good morning sunshine! ☀️🍓😎  #madeleines #madamemerillou #strawberry #strawberries #sunshine #london… https://t.co/NVBgR1OBM6
+Username: madamemerillou
+Date: 15-11-2015
+latitude: 51.51643416
+longitude: -0.12961888
+-------------------------------------------
+Tweet ID: 6.65846706723e+17
+Tweet: Temp 16.0°C. Wind > SW @ 19.5 mph. Pressure 1013.9 mb. Rain 0.00 mm (0.00 mm/hr). Humidty 71%. Fine  possible showers.
+Username: WaterbeachUK
+Date: 15-11-2015
+latitude: 52.2675
+longitude: 0.18361111
+-------------------------------------------
+Tweet ID: 6.65846714155e+17
+Tweet: Wind 6.8 kts NW. Barometer 1019.2 hPa  Rising slowly. Temperature 14.0 °C. Rain today 0.0 mm. Humidity 88%
+Username: NewhavenTownWx
+Date: 15-11-2015
+latitude: 50.8
+longitude: 0.04694444
+-------------------------------------------
+Tweet ID: 6.65846718907e+17
+Tweet: Wind 3.8 mph W. Barometer 1013.3 hPa  Rising slowly. Temperature 16.4 °C. Rain today 0.3 mm. Humidity 37%
+Username: sgweather1
+Date: 15-11-2015
+latitude: 51.61722222
+longitude: -0.60111111
+-------------------------------------------
+Tweet ID: 6.65846728001e+17
+Tweet: Wind 10.0 mph WSW. Barometer 1011.72 mb  Rising. Temperature 16.5 °C. Rain today 0.0 mm. Humidity 75%
+Username: Weather_SS17
+Date: 15-11-2015
+latitude: 51.86805556
+longitude: 0.73111111
+-------------------------------------------
+Tweet ID: 6.65846782069e+17
+Tweet: Wind 18 mph SW. Barometer 1011.9 mb  Rising slowly. Temperature 16.4 °C. Rain today 0.3 mm. Humidity 72%
+Username: JeffWak
+Date: 15-11-2015
+latitude: 51.4825
+longitude: 0.37666667
+-------------------------------------------
+Tweet ID: 6.65846829775e+17
+Tweet: Wind 5.1 mph WSW. Barometer 1012.5 hPa  Rising slowly. Temperature 16.4 °C. Rain today 0.0 mm. Humidity 71%
+Username: collou60
+Date: 15-11-2015
+latitude: 51.49861111
+longitude: -0.54194444
+-------------------------------------------
+Tweet ID: 6.6584688402e+17
+Tweet: Wind 6 km/h NNW. Barometer 1010.6 mb  Rising slowly. Temperature 16.0 °C. Rain today 0.0 mm. Humidity 67%
+Username: twinklekit
+Date: 15-11-2015
+latitude: 51.37944444
+longitude: 0.09944444
+-------------------------------------------
+Tweet ID: 6.65846991315e+17
+Tweet: Autism rate skyrockets in the U.S.  here’s why https://t.co/pn2wM6HRZN inewsphoto https://t.co/2Ytq1g71K9
+Username: inewsphoto_gbr
+Date: 15-11-2015
+latitude: 51.53523138
+longitude: -0.13389587
+-------------------------------------------
+Tweet ID: 6.6584742449e+17
+Tweet: Loveteeeo en london! 😘😘💃🏻💃🏻 @ Trafalgar Square https://t.co/lCJd88JbLC
+Username: jesusmerchang
+Date: 15-11-2015
+latitude: 51.50805556
+longitude: -0.12805556
+-------------------------------------------
+Tweet ID: 6.65847521479e+17
+Tweet: Berlin is calling. ✈️🇩🇪 @ Gatwick Airport https://t.co/Ji0XKdvwC1
+Username: kittygibson
+Date: 15-11-2015
+latitude: 51.15831241
+longitude: -0.16949231
+-------------------------------------------
+Tweet ID: 6.65847818008e+17
+Tweet: I'm going to not go back to bed & go to brunch & try and write a 1000 words. 🌊
+Username: The_DeeJ
+Date: 15-11-2015
+latitude: 51.54778273
+longitude: -0.00230659
+-------------------------------------------
+Tweet ID: 6.6584838819e+17
+Tweet: #Matchstick #dragon trapped behind glass under the @southbankcentre.   #koestlertrust… https://t.co/5nsbl8mbjA
+Username: Babalynne
+Date: 15-11-2015
+latitude: 51.54725763
+longitude: -0.18069064
+-------------------------------------------
+Tweet ID: 6.65848411863e+17
+Tweet: Morning Yeah.. ✌🏾️ @ Lemon Tots Boutique https://t.co/1KMTvBh9tX
+Username: CharleyVanPurpz
+Date: 15-11-2015
+latitude: 51.38111301
+longitude: 0.15829554
+-------------------------------------------
+Tweet ID: 6.65848721369e+17
+Tweet: LDN NIGHTS 🇬🇧  Last night was deeeeecent over on the Northside. 🍾🍸  📸 by… https://t.co/7YH5jVkTab
+Username: AdamBearUK
+Date: 15-11-2015
+latitude: 51.47658746
+longitude: -0.25385703
+-------------------------------------------
+Tweet ID: 6.65849050563e+17
+Tweet: My love my 🌎 my life.... ♥️😍 one of my fav pics of Tia 👑✨ @ Erith https://t.co/rbObsIiuD0
+Username: Dimpzxxx
+Date: 15-11-2015
+latitude: 51.48
+longitude: 0.1778
+-------------------------------------------
+Tweet ID: 6.65849220252e+17
+Tweet: Can't wait for the next months talk in London ❤️. #live #football #believe #hardwork #wiw #inspire… https://t.co/QpNq9C3uoQ
+Username: kickprogramme
+Date: 15-11-2015
+latitude: 51.51643416
+longitude: -0.12961888
+-------------------------------------------
+Tweet ID: 6.65849516215e+17
+Tweet: 🎁❄️🎅🏾 Christmas is definitely coming...!!! 🎁❄️🎅🏾 #christmas #carnabystreet #festive #decorations… https://t.co/HyDM6RvHGe
+Username: Jesybell
+Date: 15-11-2015
+latitude: 51.51329124
+longitude: -0.13900351
+-------------------------------------------
+Tweet ID: 6.65849891953e+17
+Tweet: When u keep saying I am no going out tonight and u arrive to Heaven and it's crazy good party! Love… https://t.co/wKcIz1obS7
+Username: franferros
+Date: 15-11-2015
+latitude: 51.51643416
+longitude: -0.12961888
+-------------------------------------------
+Tweet ID: 6.65850060673e+17
+Tweet: Had such a great time catching up with this lad right here @joaopimenta1990 the other day. Mr.… https://t.co/BrMJ7qnjro
+Username: whoelsebutalex
+Date: 15-11-2015
+latitude: 51.44130899
+longitude: -0.22281211
+-------------------------------------------
+Tweet ID: 6.6585050342e+17
+Tweet: Wind 9.0 mph W. Barometer 1011.69 mb  Rising. Temperature 16.6 °C. Rain today 0.0 mm. Humidity 75%
+Username: Weather_SS17
+Date: 15-11-2015
+latitude: 51.86805556
+longitude: 0.73111111
+-------------------------------------------
+Tweet ID: 6.65850655144e+17
+Tweet: Wind 9 km/h NNW. Barometer 1010.4 mb  Rising slowly. Temperature 15.9 °C. Rain today 0.0 mm. Humidity 68%
+Username: twinklekit
+Date: 15-11-2015
+latitude: 51.37944444
+longitude: 0.09944444
+-------------------------------------------
+Tweet ID: 6.65851386597e+17
+Tweet: Travelling through history on a Sunday. Hello person up there in that cosy window! 👋🏼 @ Tower Bridge https://t.co/NX1Ooot13d
+Username: RohiniWahi
+Date: 15-11-2015
+latitude: 51.50514919
+longitude: -0.07558474
+-------------------------------------------
+Tweet ID: 6.65851456894e+17
+Tweet: Todos locos...  Un tanque por la calle...  Why not? 😕 @ Piccadilly Circus https://t.co/Wn4zP0hEKJ
+Username: luissuita
+Date: 15-11-2015
+latitude: 51.51
+longitude: -0.13444444
+-------------------------------------------
+Tweet ID: 6.65851635265e+17
+Tweet: @niall_gooch OK  I won't. 😊
+Username: seheard
+Date: 15-11-2015
+latitude: 51.644103
+longitude: -0.070368
+-------------------------------------------
+Tweet ID: 6.65851744912e+17
+Tweet: How to not love the cold and all the good stuff that comes along with it!???? #autumninlondon… https://t.co/3kBETgoKpY
+Username: carolpascoall
+Date: 15-11-2015
+latitude: 51.52113923
+longitude: -0.07246157
+-------------------------------------------
+Tweet ID: 6.65851781541e+17
+Tweet: Last night we ate all of this and it was bloody delicious! Thanks bush_akram! #bushrastable… https://t.co/bZbXD5MDAY
+Username: hannahpmorrison
+Date: 15-11-2015
+latitude: 51.51956849
+longitude: -0.07586196
+-------------------------------------------
+Tweet ID: 6.65851878069e+17
+Tweet: @british_airways knows how to serve its club guests. Take notes for once  americanair. #airlineclub… https://t.co/C3XyDnLJMV
+Username: mattaparity
+Date: 15-11-2015
+latitude: 51.47240079
+longitude: -0.48749803
+-------------------------------------------
+Tweet ID: 6.65852299928e+17
+Tweet: Lots of laughs yesterday with these lovelies at the Esher vs Rosslyn Park rugby match 🍾🍾☔️🏉! @tashc13… https://t.co/5jBHnQ9ksT
+Username: savanna_adams4
+Date: 15-11-2015
+latitude: 51.38040795
+longitude: -0.38938779
+-------------------------------------------
+Tweet ID: 6.65853012456e+17
+Tweet: YAYY LITTLE MIX ON SUNDAY BRUNCH 😍😘!!
+Username: t_k_maxx
+Date: 15-11-2015
+latitude: 51.60300356
+longitude: -0.33583051
+-------------------------------------------
+Tweet ID: 6.65853126537e+17
+Tweet: The almost spiritual feeling of cleaning stainless steel. Always sets me in a good mood. Cleansing. @… https://t.co/SITR1z1uhR
+Username: Butterviking
+Date: 15-11-2015
+latitude: 50.66666667
+longitude: -1.26666667
+-------------------------------------------
+Tweet ID: 6.65853676796e+17
+Tweet: Bae 💜... #birthday #nightout #london #sirquelesoir #girls #clown #pout #saturdaynight @ Cirque le Soir https://t.co/2GO92bcayS
+Username: DaniFarley_
+Date: 15-11-2015
+latitude: 51.5130424
+longitude: -0.1385327
+-------------------------------------------
+Tweet ID: 6.65853952354e+17
+Tweet: Amazing time at the #gingerline last night. Not sure how Zoidberg snuck in though... #futurama… https://t.co/H32pFDw6wj
+Username: georgeshelbourn
+Date: 15-11-2015
+latitude: 51.51643416
+longitude: -0.12961888
+-------------------------------------------
+Tweet ID: 6.65854190716e+17
+Tweet: 🎅🏻🎄🛍!! #joulu #basaari #hässäkkä @ Lontoon merimieskirkko https://t.co/CMBxOHlCo3
+Username: tahikun
+Date: 15-11-2015
+latitude: 51.4997139
+longitude: -0.0530447
+-------------------------------------------
+Tweet ID: 6.65854279929e+17
+Tweet: Wind 12.0 mph WSW. Barometer 1011.72 mb  Rising. Temperature 16.6 °C. Rain today 0.0 mm. Humidity 74%
+Username: Weather_SS17
+Date: 15-11-2015
+latitude: 51.86805556
+longitude: 0.73111111
+-------------------------------------------
+Tweet ID: 6.6585443175e+17
+Tweet: Wind 5 km/h NW. Barometer 1010.3 mb  Rising slowly. Temperature 16.0 °C. Rain today 0.0 mm. Humidity 68%
+Username: twinklekit
+Date: 15-11-2015
+latitude: 51.37944444
+longitude: 0.09944444
+-------------------------------------------
+Tweet ID: 6.65855538216e+17
+Tweet: Bedroom Essentials package £39 with promo code SEXPO15 during @SexpoUK. Worth over £59. https://t.co/EJRZSyRD2D
+Username: roomanticsclub
+Date: 15-11-2015
+latitude: 51.4962855
+longitude: -0.2095499
+-------------------------------------------
+Tweet ID: 6.6585565155e+17
+Tweet: Hahaha!! My entertainment... 2 hours of this to look forward to... 😳😳 #fiance #singing #roadtrip… https://t.co/wQK3x0C460
+Username: MelNic
+Date: 15-11-2015
+latitude: 52.24042
+longitude: 0.05811
+-------------------------------------------
+Tweet ID: 6.65856477698e+17
+Tweet: Thanks God for give me another day and for everything u give me. 🙏🏻🙏🏻🙏🏻❤️❤️❤️❤️❤️❤️❤️ @ Hyde park … https://t.co/8NgwfPu1Xh
+Username: Michelle_vnz
+Date: 15-11-2015
+latitude: 51.51047179
+longitude: -0.18620193
+-------------------------------------------
+Tweet ID: 6.65856556631e+17
+Tweet: “@Benangel: Thanks for connecting @kiranmandar! Here's a free marketing book to say thanks! https://t.co/MpPAE9YqHT” thank you 😊
+Username: kiranmandar
+Date: 15-11-2015
+latitude: 51.40452328
+longitude: 0.0337841
+-------------------------------------------
+Tweet ID: 6.65856731785e+17
+Tweet: Really want one of these classic Smiley Lamps from Gill Wing Gifts! ☺☺ ☺ Think they'd be perfect for… https://t.co/TDgYazPaer
+Username: jademellor
+Date: 15-11-2015
+latitude: 51.5425873
+longitude: -0.1032995
+-------------------------------------------
+Tweet ID: 6.65856732594e+17
+Tweet: This amazing lady is singing in Lisa's Listening Room tonight! Music from 7-10. £5 entry  £5 food… https://t.co/GDeqySAJWb
+Username: lisaslivemusic
+Date: 15-11-2015
+latitude: 51.51930337
+longitude: -0.2078705
+-------------------------------------------
+Tweet ID: 6.65856863977e+17
+Tweet: Infinite road ... -------------------------------------------------… https://t.co/Mef1XxnARf
+Username: Tucumano_London
+Date: 15-11-2015
+latitude: 51.48598158
+longitude: -0.19129696
+-------------------------------------------
+Tweet ID: 6.65857146723e+17
+Tweet: Sunday Brunch at Percy & Reed East. Great hair  a Bloody Mary and breakfast. What's not to love! 🍹📰… https://t.co/ZEpvwGBadZ
+Username: percyhair
+Date: 15-11-2015
+latitude: 51.5193863
+longitude: -0.0742699
+-------------------------------------------
+Tweet ID: 6.65857150846e+17
+Tweet: Leaves house Sweats so much my car windows get steamed up.  😑
+Username: english_rose10
+Date: 15-11-2015
+latitude: 51.5908151
+longitude: -0.32409417
+-------------------------------------------
+Tweet ID: 6.65858051078e+17
+Tweet: Wind 12.0 mph WSW. Barometer 1011.52 mb  Rising. Temperature 16.4 °C. Rain today 0.0 mm. Humidity 75%
+Username: Weather_SS17
+Date: 15-11-2015
+latitude: 51.86805556
+longitude: 0.73111111
+-------------------------------------------
+Tweet ID: 6.6585820623e+17
+Tweet: Wind 6 km/h W. Barometer 1010.2 mb  Rising slowly. Temperature 16.3 °C. Rain today 0.0 mm. Humidity 66%
+Username: twinklekit
+Date: 15-11-2015
+latitude: 51.37944444
+longitude: 0.09944444
 -------------------------------------------

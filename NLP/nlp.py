@@ -15,6 +15,15 @@ import nltk
 import json
 import os
 
+# ----------------
+
+import glob
+from Tweet import Tweet
+
+from Main import extract_hashtags, load_crime_data, load_tweets
+
+# ----------------
+
 # String Encoding
 from unidecode import unidecode
 
@@ -30,7 +39,9 @@ from sklearn.svm import SVC, LinearSVC, NuSVC
 
 # Statistics
 from statistics import mode #how we are going to choose who got the most votes
-
+	
+	
+	
 
 # TRAINING
 
@@ -157,6 +168,9 @@ def sentiment(text):
 
 # ===========================================================================================
 # PICK UP OUR TEST SET FOR CLASSIFICATION
+
+
+'''
 data_collection = []
 with open('sample.json') as f:
 	s = f.read()
@@ -169,11 +183,59 @@ with open('sample.json') as f:
 		latitude = tweet['latitude']
 		longitude = tweet['longitude']
 		data_collection.append( [ tweetId, text, username, date, latitude, longitude ] )
-
 '''
-++ NOTE: I HAVE HAD TO PUT A TRY AND EXCEPT IN THIS CODE AS 
-		 THE TEXT FILE IS NOT CLEAN AND PARSED FROM 
-		 ISSUES WITH UNICODE ETC ETC ...
+
+
+## Here we will go through all the objects and append them to the data_collection 
+#tweet_path = r'C:\Users\Andrew\Downloads\Twitter'
+tweet_path = r'C:\Users\Andrew\Documents\IRDM\group_backup\NLP\Tweets_Subset'
+
+#Returns a bunch of objects
+tweets_objects = load_tweets(tweet_path)
+
+
+#
+#++ NOTE: I HAVE HAD TO PUT A TRY AND EXCEPT IN THIS CODE AS 
+#		 THE TEXT FILE IS NOT CLEAN AND PARSED FROM 
+#		 ISSUES WITH UNICODE ETC ETC ...
+
+
+file_path = 'C:\Users\Andrew\Documents\IRDM\group_backup\NLP'
+for instance in range(0,len(tweets_objects)):
+	try:
+		classify = sentiment(tweets_objects[instance].text.encode('utf-8'))
+		category = classify[0]
+		confidence = classify[1]
+		if not os.path.exists( file_path + '\\' +'classified_tweets.txt'):
+				open( file_path + '\\' + 'classified_tweets.txt', 'w').close # Creates the log file
+		with open( file_path + '\\' + 'classified_tweets.txt', 'a' ) as outfile:
+			outfile.write( str(category) + ',' ) #Sentiment Classification
+			outfile.write( str(confidence) + ',' ) #How sure we are of this classification
+			outfile.write( str(tweets_objects[instance].tweet_id) + ',' ) #Tweet ID
+			outfile.write( str(tweets_objects[instance].text.encode('utf-8')) + ',' ) #Tweet
+			outfile.write( str(tweets_objects[instance].username.encode('utf-8')) + ',' ) #Username
+			outfile.write( str(tweets_objects[instance].date) + ',' ) #Date
+			outfile.write( str(tweets_objects[instance].latitude) + ',' ) #latitude
+			outfile.write( str(tweets_objects[instance].longitude) + '\n' ) #longitude
+		print 'classified tweet number ' + str(instance)
+	except:
+		## THE ERRORS CAN BE WRITTEN TO A FILE
+		print 'ERROR ENCOUNTERED'
+		if not os.path.exists( file_path + '\\' + 'error_log.txt'):
+				open( file_path + '\\' + 'error_log.txt', 'w').close # Creates the error log file
+		with open( file_path + '\\' + 'error_log.txt', 'a' ) as outfile:
+			outfile.write( 'Tweet ID: ' + str(tweets_objects[instance].tweet_id) + '\n' )
+			outfile.write( 'Tweet: ' + str(tweets_objects[instance].text.encode('utf-8')) + '\n' )
+			outfile.write( 'Username: ' + str(tweets_objects[instance].username.encode('utf-8')) + '\n' )
+			outfile.write( 'Date: ' + str(tweets_objects[instance].date) + '\n' )
+			outfile.write( 'latitude: ' + str(tweets_objects[instance].latitude) + '\n' )
+			outfile.write( 'longitude: ' + str(tweets_objects[instance].longitude) + '\n' )
+			outfile.write( '-------------------------------------------' + '\n' )
+
+
+
+
+
 '''
 file_path = 'C:\Users\Andrew\Documents\IRDM\group_backup\NLP'
 for instance in range(0,len(data_collection)):
@@ -206,4 +268,4 @@ for instance in range(0,len(data_collection)):
 			outfile.write( 'latitude: ' + str(data_collection[instance][4]) + '\n' )
 			outfile.write( 'longitude: ' + str(data_collection[instance][5]) + '\n' )
 			outfile.write( '-------------------------------------------' + '\n' )
-		
+'''
