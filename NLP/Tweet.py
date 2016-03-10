@@ -14,4 +14,6 @@ class Tweet:
         self.tweet_id = tweetId
         self.username = username
         self.hashtags = []
+        self.timestamp = datetime.datetime.fromtimestamp(int(date / 1000))
+        self.raw_unix = date
 

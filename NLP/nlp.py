@@ -8,38 +8,33 @@ NEXT WEEK I WILL PICKLE THE CLASSIFIERS ON THE LARGE DATASETS
 
 '''
 
+# ----------------
 # Packages
 import random
 import pickle
 import nltk
 import json
 import os
-
 # ----------------
-
 import glob
 from Tweet import Tweet
-
 from Main import extract_hashtags, load_crime_data, load_tweets
-
 # ----------------
-
 # String Encoding
 from unidecode import unidecode
-
+# ----------------
 # NLTK
 from nltk.classify.scikitlearn import SklearnClassifier
 from nltk.classify import ClassifierI #so we can inherit from the nltk classifier class
 from nltk.tokenize import word_tokenize
-
+# ----------------
 # Machine Learning
 from sklearn.naive_bayes import MultinomialNB, BernoulliNB
 from sklearn.linear_model import LogisticRegression, SGDClassifier
 from sklearn.svm import SVC, LinearSVC, NuSVC
-
+# ----------------
 # Statistics
 from statistics import mode #how we are going to choose who got the most votes
-	
 	
 	
 
@@ -98,7 +93,7 @@ for w in short_neg_words:
 
 all_words = nltk.FreqDist(all_words)
 
-word_features = list(all_words.keys())[:5000] #we have 5000 features
+word_features = list(all_words.keys())[:10000] #we have 10000 features
 
 def find_features(document):
     words = word_tokenize(document)
@@ -118,8 +113,10 @@ random.shuffle(featuresets) #shuffle the sets so its not just pos / neg / pos / 
 
 ##
 ### data ---- note as this is shuffled there is no big deal      
-training_set = featuresets[250:]
-testing_set =  featuresets[:250]
+#training_set = featuresets[30000:]
+#testing_set =  featuresets[:20000]
+training_set = featuresets[100:]
+testing_set =  featuresets[:100]
 
 
 classifier = nltk.NaiveBayesClassifier.train(training_set)
@@ -214,7 +211,9 @@ for instance in range(0,len(tweets_objects)):
 			outfile.write( str(tweets_objects[instance].tweet_id) + ',' ) #Tweet ID
 			outfile.write( str(tweets_objects[instance].text.encode('utf-8')) + ',' ) #Tweet
 			outfile.write( str(tweets_objects[instance].username.encode('utf-8')) + ',' ) #Username
-			outfile.write( str(tweets_objects[instance].date) + ',' ) #Date
+			#outfile.write( str(tweets_objects[instance].date) + ',' ) #Date
+			outfile.write( str(tweets_objects[instance].timestamp) + ',' ) #Datetime 
+			outfile.write( str(tweets_objects[instance].raw_unix) + ',' ) #raw_unix
 			outfile.write( str(tweets_objects[instance].latitude) + ',' ) #latitude
 			outfile.write( str(tweets_objects[instance].longitude) + '\n' ) #longitude
 		print 'classified tweet number ' + str(instance)
@@ -227,7 +226,8 @@ for instance in range(0,len(tweets_objects)):
 			outfile.write( 'Tweet ID: ' + str(tweets_objects[instance].tweet_id) + '\n' )
 			outfile.write( 'Tweet: ' + str(tweets_objects[instance].text.encode('utf-8')) + '\n' )
 			outfile.write( 'Username: ' + str(tweets_objects[instance].username.encode('utf-8')) + '\n' )
-			outfile.write( 'Date: ' + str(tweets_objects[instance].date) + '\n' )
+			outfile.write( 'Timestamp (Unix): ' + str(tweets_objects[instance].raw_unix) + '\n' )
+			outfile.write( 'Date: ' + str(tweets_objects[instance].timestamp) + '\n' )
 			outfile.write( 'latitude: ' + str(tweets_objects[instance].latitude) + '\n' )
 			outfile.write( 'longitude: ' + str(tweets_objects[instance].longitude) + '\n' )
 			outfile.write( '-------------------------------------------' + '\n' )
