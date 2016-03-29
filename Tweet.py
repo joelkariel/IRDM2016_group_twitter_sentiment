@@ -16,4 +16,10 @@ class Tweet:
         self.tweet_id = tweetId
         self.username = username
         self.hashtags = []
-
+        self.classif = None
+        self.conf = None
+    def assign_sentiment(self,classification,confidence):
+        '''Add and store sentiment of classified tweets '''
+        self.classif = classification
+        self.conf = confidence
+    
