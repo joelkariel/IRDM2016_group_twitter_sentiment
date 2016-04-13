@@ -27,23 +27,33 @@ from sklearn.svm import SVC, LinearSVC, NuSVC
 from statistics import mode #how we are going to choose who got the most votes
 
 
-
 class Classifier(ClassifierI):
+	''' 
+	Description: A class to implement the ensemble voting sentiment analysis
+	'''
     def __init__(self, *classifiers):
-		self._classifiers = classifiers
+		self.classifiers = classifiers
 
     def classify(self, features):
+		''' 
+		Description: A function to compute and store the votes of each classifier
+		'''
         votes = []
-        for c in self._classifiers:
+        for c in self.classifiers:
             v = c.classify(features)
             votes.append(v)
         return mode(votes)
 
     def confidence(self, features):
+		''' 
+		A function to compute the confidence in line with the results from classify
+		'''
 		votes = []
-		for c in self._classifiers:
+		for c in self.classifiers:
 			v = c.classify(features)
 			votes.append(v)
-		choice_votes = votes.count(mode(votes))
-		conf = float(choice_votes) / float(len(votes))
-		return conf
+		mostCommonVoteCount = votes.count(mode(votes))
+		generateConfidence = float(mostCommonVoteCount) / float(len(votes))
+		return generateConfidence
+		
+

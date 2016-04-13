@@ -2,8 +2,8 @@
 [info] Group Project
 [info] Module: Information Retreival & Data Mining
 
-[info] installing unidecode to encode the text for nltk toolkit
-[info] install nltk.download to be able to run this as it uses the NLTK toolkit
+[info] Installing unidecode to encode the text for nltk toolkit
+[info] Install nltk.download() to be able to run this as it uses the NLTK toolkit
 
 '''
 # ----------------
