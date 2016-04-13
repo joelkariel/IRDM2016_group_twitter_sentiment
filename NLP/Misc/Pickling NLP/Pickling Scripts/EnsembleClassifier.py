@@ -1,5 +1,3 @@
-
-# ----------------
 # Packages
 import random
 import pickle
@@ -28,25 +26,29 @@ from sklearn.svm import SVC, LinearSVC, NuSVC
 from statistics import mode #how we are going to choose who got the most votes
 
 
-class VoteClassifier(ClassifierI):
+class EnsembleClassifier(ClassifierI):
+	''' 
+	Description: A class to vote on sentiment of tweets 
+	'''
+	
     def __init__(self, *classifiers):
-		self._classifiers = classifiers
+		self.classifiers = classifiers
 
     def classify(self, features):
         votes = []
-        for c in self._classifiers:
+        for c in self.classifiers:
             v = c.classify(features)
             votes.append(v)
         return mode(votes)
 
     def confidence(self, features):
 		votes = []
-		for c in self._classifiers:
+		for c in self.classifiers:
 			v = c.classify(features)
 			votes.append(v)
-		choice_votes = votes.count(mode(votes)) #ENSURE THIS IS OUT OF THE FOR LOOP OTHERWISE I GET SHIT CONF VALS
-		conf = float(choice_votes) / float(len(votes))
-		return conf
+		theVote = votes.count(mode(votes))
+		confidenceLevel = float(theVote) / float(len(votes))
+		return confidenceLevel
 		
 		
 		

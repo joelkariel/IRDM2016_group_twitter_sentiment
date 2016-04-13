@@ -25,91 +25,83 @@ from sklearn.svm import SVC, LinearSVC, NuSVC
 # ----------------
 # Statistics
 from statistics import mode #how we are going to choose who got the most votes
-# _________________________________________________________
-from VoteClassifier import VoteClassifier
+# ----------------
+# Voting Classifier Class 
+from EnsembleClassifier import EnsembleClassifier
 
 
-def find_features(document):
+def extractFeatures(document):
     words = word_tokenize(document)
     features = {}
     for w in word_features:
         features[w] = (w in words)
     return features
 
-
-documents_f = open("Pickled/documents.pickle", "rb")
-documents = pickle.load(documents_f)
-documents_f.close()
-
-word_features5k_f = open("Pickled/word_features10k.pickle", "rb")
-word_features = pickle.load(word_features5k_f)
-word_features5k_f.close()
-
-featuresets_f = open("Pickled/featuresets.pickle", "rb")
-featuresets = pickle.load(featuresets_f)
-featuresets_f.close()
-
+# Get pickled documents
+pickledDocs = open("Pickled/Documents.pickle", "rb")
+documents = pickle.load(pickledDocs)
+pickledDocs.close()
+# Get pickled word features
+wordPickle = open("Pickled/wordFeatures50k.pickle", "rb")
+wordFeatures = pickle.load(wordPickle)
+wordPickle.close()
+# Get pickled feature sets
+pickledFeaturesets = open("Pickled/featuresets.pickle", "rb")
+featuresets = pickle.load(pickledFeaturesets)
+pickledFeaturesets.close()
+# Shuffle the feature set
 random.shuffle(featuresets)
-print(len(featuresets))
 
-testing_set = featuresets[10000:]
-training_set = featuresets[:10000]
+## LOAD THE ALGOS FROM PICKLED STATE
 
-
-## LOAD THE ALGOS
-
-open_file = open("Pickled/originalnaivebayes5k.pickle", "rb")
-classifier = pickle.load(open_file)
+open_file = open("Pickled/NaiveBayes50k.pickle", "rb")
+NB_Classifier = pickle.load(open_file)
 open_file.close()
 
-open_file = open("Pickled/MNB_classifier5k.pickle", "rb")
-MNB_classifier = pickle.load(open_file)
+open_file = open("Pickled/MultinomialNB_Classifier50k.pickle", "rb")
+MultinomialNB_Classifier = pickle.load(open_file)
 open_file.close()
 
-open_file = open("Pickled/BernoulliNB_classifier5k.pickle", "rb")
-BernoulliNB_classifier = pickle.load(open_file)
+open_file = open("Pickled/BernoulliNB_Classifier50k.pickle", "rb")
+BernoulliNB_Classifier = pickle.load(open_file)
 open_file.close()
 
-open_file = open("Pickled/LogisticRegression_classifier5k.pickle", "rb")
-LogisticRegression_classifier = pickle.load(open_file)
+open_file = open("Pickled/LogisticRegression_Classifier50k.pickle", "rb")
+LogisticRegression_Classifier = pickle.load(open_file)
 open_file.close()
 
-open_file = open("Pickled/LinearSVC_classifier5k.pickle", "rb")
-LinearSVC_classifier = pickle.load(open_file)
+open_file = open("Pickled/SGDC_classifier50k.pickle", "rb")
+StochasticGradientDescent_Classifier = pickle.load(open_file)
 open_file.close()
 
-open_file = open("Pickled/SGDC_classifier5k.pickle", "rb")
-SGDClassifier_classifier = pickle.load(open_file)
+open_file = open("Pickled/LinearSupportVector_Classifier50k.pickle", "rb")
+LinearSupportVector_Classifier = pickle.load(open_file)
 open_file.close()
 
-open_file = open("Pickled/NuSVC_classifier5k.pickle", "rb")
-NuSVC_classifier = pickle.load(open_file)
+open_file = open("Pickled/NuSupportVector_Classifier50k.pickle", "rb")
+NuSupportVector_Classifier = pickle.load(open_file)
 open_file.close()
-
 
 ## END LOADING
 
-
-voted_classifier = VoteClassifier( classifier,
-                                   NuSVC_classifier, 
-                                   LinearSVC_classifier,
-								   SGDClassifier_classifier,
-								   MNB_classifier,
-								   BernoulliNB_classifier,
-								   LogisticRegression_classifier )
+trainedClassifier = EnsembleClassifier( NB_Classifier,
+                                        MultinomialNB_Classifier,
+                                        BernoulliNB_Classifier,
+                                        LogisticRegression_Classifier 
+                                        StochasticGradientDescent_Classifier,
+                                        LinearSupportVector_Classifier,
+                                        NuSupportVector_Classifier
+                                         )
 
 def sentiment(text):
-    feats = find_features(text)
-    return voted_classifier.classify(feats),float(voted_classifier.confidence(feats))
+    feats = extractFeatures(text)
+    return trainedClassifier.classify(feats),float(trainedClassifier.confidence(feats))
 
-
-## Here we will go through all the objects and append them to the data_collection 
+# Here we will go through all the objects and append them to the data_collection 
 tweet_path = r'C:\Users\Andrew\Downloads\Twitter'
-#tweet_path = r'C:\Users\Andrew\Documents\IRDM\group_backup\NLP\Tweets_Subset'
-
 # Returns a bunch of objects
 tweets_objects = load_tweets(tweet_path)
-
+# File Dumping path
 file_path = 'C:\Users\Andrew\Documents\IRDM\GitHub\irdm_twitter_sentiment\NLP\Optimised'
 for instance in range(0,len(tweets_objects)):
 	try:
@@ -117,14 +109,13 @@ for instance in range(0,len(tweets_objects)):
 		category = classify[0]
 		confidence = classify[1]
 		if not os.path.exists( file_path + '\\' +'classified_tweets.txt'):
-				open( file_path + '\\' + 'classified_tweets.txt', 'w').close # Creates the log file
+			open( file_path + '\\' + 'classified_tweets.txt', 'w').close # Creates the log file
 		with open( file_path + '\\' + 'classified_tweets.txt', 'a' ) as outfile:
 			outfile.write( str(category) + ',' ) #Sentiment Classification
 			outfile.write( str(confidence) + ',' ) #How sure we are of this classification
 			outfile.write( str(tweets_objects[instance].tweet_id) + ',' ) #Tweet ID
 			outfile.write( str(tweets_objects[instance].text.encode('utf-8')) + ',' ) #Tweet
 			outfile.write( str(tweets_objects[instance].username.encode('utf-8')) + ',' ) #Username
-			#outfile.write( str(tweets_objects[instance].date) + ',' ) #Date
 			outfile.write( str(tweets_objects[instance].timestamp) + ',' ) #Datetime 
 			outfile.write( str(tweets_objects[instance].raw_unix) + ',' ) #raw_unix
 			outfile.write( str(tweets_objects[instance].latitude) + ',' ) #latitude
@@ -134,7 +125,7 @@ for instance in range(0,len(tweets_objects)):
 		## THE ERRORS CAN BE WRITTEN TO A FILE
 		print 'ERROR ENCOUNTERED'
 		if not os.path.exists( file_path + '\\' + 'error_log.txt'):
-				open( file_path + '\\' + 'error_log.txt', 'w').close # Creates the error log file
+			open( file_path + '\\' + 'error_log.txt', 'w').close # Creates the error log file
 		with open( file_path + '\\' + 'error_log.txt', 'a' ) as outfile:
 			outfile.write( 'Tweet ID: ' + str(tweets_objects[instance].tweet_id) + '\n' )
 			outfile.write( 'Tweet: ' + str(tweets_objects[instance].text.encode('utf-8')) + '\n' )
@@ -144,3 +135,4 @@ for instance in range(0,len(tweets_objects)):
 			outfile.write( 'latitude: ' + str(tweets_objects[instance].latitude) + '\n' )
 			outfile.write( 'longitude: ' + str(tweets_objects[instance].longitude) + '\n' )
 			outfile.write( '-------------------------------------------' + '\n' )
+
