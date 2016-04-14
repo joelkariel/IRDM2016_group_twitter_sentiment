@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Heatmaps</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet">
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js" ></script>
+    <style>
+        html, body {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+</head>
+
+<body>
+    <nav class="navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav side-nav">
+                <li class="active">
+                    <a href="#">IRDM Group Project</a>
+                <li>
+                    <a href="#" id = "toggleHeatmap_pos"><span id="div15" style="display: inline"><img src="images/tick.png" style="width:13px;height:13px;"></span>Tweets: Positive</a>
+                </li>
+                <li>
+                    <a href="#" id = "toggleHeatmap_neg"><span id="div16" style="display: inline"><img src="images/tick.png" style="width:13px;height:13px;"></span>Tweets: Negative</a>
+                </li>
+                <li>
+                    <a href="#" id = "toggleHeatmap3"><span id="div3" style="display: inline"><img src="images/tick.png" style="width:13px;height:13px;"></span>Anti-social behaviour</a>
+                </li>
+                <li>
+                    <a href="#" id = "toggleHeatmap4"><span id="div4" style="display: inline"><img src="images/tick.png" style="width:13px;height:13px;"></span>Bicycle theft</a>
+                </li>
+                <li>
+                    <a href="#" id = "toggleHeatmap10"><span id="div10" style="display: inline"><img src="images/tick.png" style="width:13px;height:13px;"></span>Burglary</a>
+                </li>
+                <li>
+                    <a href="#" id = "toggleHeatmap5"><span id="div5" style="display: inline"><img src="images/tick.png" style="width:13px;height:13px;"></span>Criminal damage and arson</a>
+                </li>
+                <li>
+                    <a href="#" id = "toggleHeatmap6"><span id="div6" style="display: inline"><img src="images/tick.png" style="width:13px;height:13px;"></span>Drugs</a>
+                </li>
+                <li>
+                    <a href="#" id = "toggleHeatmap2"><span id="div2" style="display: inline"><img src="images/tick.png" style="width:13px;height:13px;"></span>Other theft</a>
+                </li>
+                <li>
+                    <a href="#" id = "toggleHeatmap11"><span id="div11" style="display: inline"><img src="images/tick.png" style="width:13px;height:13px;"></span>Public order</a>
+                </li>
+                <li>
+                    <a href="#" id = "toggleHeatmap12"><span id="div12" style="display: inline"><img src="images/tick.png" style="width:13px;height:13px;"></span>Possession of weapons</a>
+                </li>
+                <li>
+                    <a href="#" id = "toggleHeatmap14"><span id="div14" style="display: inline"><img src="images/tick.png" style="width:13px;height:13px;"></span>Robbery</a>
+                </li>
+                <li>
+                    <a href="#" id = "toggleHeatmap13"><span id="div13" style="display: inline"><img src="images/tick.png" style="width:13px;height:13px;"></span>Shoplifting</a>
+                </li>
+                <li>
+                    <a href="#" id = "toggleHeatmap8"><span id="div8" style="display: inline"><img src="images/tick.png" style="width:13px;height:13px;"></span>Theft from the person</a>
+                </li>
+                <li>
+                    <a href="#" id = "toggleHeatmap9"><span id="div9" style="display: inline"><img src="images/tick.png" style="width:13px;height:13px;"></span>Vehicle crime</a>
+                </li>
+                <li>
+                    <a href="#" id = "toggleHeatmap1"><span id="div1" style="display: inline"><img src="images/tick.png" style="width:13px;height:13px;"></span>Violence and sexual offences</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <div id="map"></div>
+<script>
+
+    var e1 = document.getElementById('toggleHeatmap1');
+    e1.onclick = toggleHeatmap_1;
+    var e2 = document.getElementById('toggleHeatmap2');
+    e2.onclick = toggleHeatmap_2;
+    var e3 = document.getElementById('toggleHeatmap3');
+    e3.onclick = toggleHeatmap_3;
+    var e4 = document.getElementById('toggleHeatmap4');
+    e4.onclick = toggleHeatmap_4;
+    var e5 = document.getElementById('toggleHeatmap5');
+    e5.onclick = toggleHeatmap_5;
+    var e6 = document.getElementById('toggleHeatmap6');
+    e6.onclick = toggleHeatmap_6;
+    var e8 = document.getElementById('toggleHeatmap8');
+    e8.onclick = toggleHeatmap_8;
+    var e9 = document.getElementById('toggleHeatmap9');
+    e9.onclick = toggleHeatmap_9;
+    var e10 = document.getElementById('toggleHeatmap10');
+    e10.onclick = toggleHeatmap_10;
+    var e11 = document.getElementById('toggleHeatmap11');
+    e11.onclick = toggleHeatmap_11;
+    var e12 = document.getElementById('toggleHeatmap12');
+    e12.onclick = toggleHeatmap_12;
+    var e13 = document.getElementById('toggleHeatmap13');
+    e13.onclick = toggleHeatmap_13;
+    var e14 = document.getElementById('toggleHeatmap14');
+    e14.onclick = toggleHeatmap_14;
+    var e15 = document.getElementById('toggleHeatmap_pos');
+    e15.onclick = toggleHeatmap_pos;
+    var e16 = document.getElementById('toggleHeatmap_neg');
+    e16.onclick = toggleHeatmap_neg;
+
+    var map, heatmap;
+    //learnt from:
+    //https://developers.google.com/maps/tutorials/visualizing/earthquakes#circle_size
+    //https://developers.google.com/maps/documentation/javascript/examples/layer-heatmap
+
+    function initMap() {
+        index = new google.maps.Map(document.getElementById('map'), {
+            zoom: 10,
+            center: {lat: 51.500152, lng: -0.126236},
+            mapTypeId: google.maps.MapTypeId.MAP
+        });
+
+        var script = document.createElement('script');
+        script.src = './output.geojsonp'
+        document.getElementsByTagName('head')[0].appendChild(script);
+
+    }
+
+    function eqfeed_callback(results) {
+        var crime_types = {};
+        var tweets = {};
+
+        for (var i = 0; i < results.features.length; i++) {
+            var mytype = results.features[i].properties.mytype;
+            if(mytype == "crime"){
+                var type = results.features[i].properties.description;
+                if(!(type in crime_types)){
+                    crime_types[type] = []
+                }
+
+                var coords = results.features[i].geometry.coordinates;
+                var entry = new google.maps.LatLng(coords[0], coords[1]);
+                crime_types[type].push(entry);
+            } else if(mytype == "tweet") {
+
+                var classification = results.features[i].properties.classification;
+                if (!(classification in tweets)) {
+                    tweets[classification] = []
+                }
+
+                var coords = results.features[i].geometry.coordinates;
+                var entry = new google.maps.LatLng(coords[0], coords[1]);
+                tweets[classification].push(entry);
+
+            }
+        }
+
+        heatmap_1 = new google.maps.visualization.HeatmapLayer({
+            data: crime_types['Violence and sexual offences'],
+            map: index,
+            dissipating: true
+        });
+
+        heatmap_2 = new google.maps.visualization.HeatmapLayer({
+            data: crime_types['Other theft'],
+            map: index
+        });
+
+        heatmap_3 = new google.maps.visualization.HeatmapLayer({
+            data: crime_types['Anti-social behaviour'],
+            map: index
+        });
+
+        heatmap_4 = new google.maps.visualization.HeatmapLayer({
+            data: crime_types['Bicycle theft'],
+            map: index
+        });
+
+        heatmap_5 = new google.maps.visualization.HeatmapLayer({
+            data: crime_types['Criminal damage and arson'],
+            map: index
+        });
+
+        heatmap_6 = new google.maps.visualization.HeatmapLayer({
+            data: crime_types['Drugs'],
+            map: index
+        });
+
+        heatmap_8 = new google.maps.visualization.HeatmapLayer({
+            data: crime_types['Theft from the person'],
+            map: index
+        });
+
+        heatmap_9 = new google.maps.visualization.HeatmapLayer({
+            data: crime_types['Vehicle crime'],
+            map: index
+        });
+
+        heatmap_10 = new google.maps.visualization.HeatmapLayer({
+            data: crime_types['Burglary'],
+            map: index
+        });
+
+        heatmap_11 = new google.maps.visualization.HeatmapLayer({
+            data: crime_types['Public order'],
+            map: index
+        });
+
+        heatmap_12 = new google.maps.visualization.HeatmapLayer({
+            data: crime_types['Possession of weapons'],
+            map: index
+        });
+
+        heatmap_13 = new google.maps.visualization.HeatmapLayer({
+            data: crime_types['Shoplifting'],
+            map: index
+        });
+
+        heatmap_14 = new google.maps.visualization.HeatmapLayer({
+            data: crime_types['Robbery'],
+            map: index
+        });
+
+        heatmap_pos = new google.maps.visualization.HeatmapLayer({
+            data: tweets['pos'],
+            map: index
+        });
+
+        heatmap_neg = new google.maps.visualization.HeatmapLayer({
+            data: tweets['neg'],
+            map: index
+        });
+
+        var gradient = [
+            'rgba(0, 255, 255, 0)',
+            'rgba(0, 255, 255, 1)',
+            'rgba(0, 191, 255, 1)',
+            'rgba(0, 127, 255, 1)',
+            'rgba(0, 63, 255, 1)',
+            'rgba(0, 0, 255, 1)',
+            'rgba(0, 0, 223, 1)',
+            'rgba(0, 0, 191, 1)',
+            'rgba(0, 0, 159, 1)',
+            'rgba(0, 0, 127, 1)',
+            'rgba(63, 0, 91, 1)',
+            'rgba(127, 0, 63, 1)',
+            'rgba(191, 0, 31, 1)',
+            'rgba(255, 0, 0, 1)']
+
+        heatmap_1.set('gradient', gradient);
+        heatmap_2.set('gradient', gradient);
+        heatmap_3.set('gradient', gradient);
+        heatmap_4.set('gradient', gradient);
+        heatmap_5.set('gradient', gradient);
+        heatmap_6.set('gradient', gradient);
+        heatmap_8.set('gradient', gradient);
+        heatmap_9.set('gradient', gradient);
+        heatmap_10.set('gradient', gradient);
+        heatmap_11.set('gradient', gradient);
+        heatmap_12.set('gradient', gradient);
+        heatmap_13.set('gradient', gradient);
+        heatmap_14.set('gradient', gradient);
+
+
+
+    }
+
+    function keep_tweets_ontop() {
+        heatmap_pos.setMap(heatmap_pos.getMap());
+        heatmap_neg.setMap(heatmap_neg.getMap());
+    }
+    function toggleHeatmap_1() {
+        heatmap_1.setMap(heatmap_1.getMap() ? null : index);
+        keep_tweets_ontop()
+        toggle_visibility('div1')
+    }
+
+    function toggleHeatmap_2() {
+        heatmap_2.setMap(heatmap_2.getMap() ? null : index);
+        keep_tweets_ontop()
+        toggle_visibility('div2')
+    }
+
+    function toggleHeatmap_3() {
+        heatmap_3.setMap(heatmap_3.getMap() ? null : index);
+        keep_tweets_ontop()
+        toggle_visibility('div3')
+    }
+
+    function toggleHeatmap_4() {
+        heatmap_4.setMap(heatmap_4.getMap() ? null : index);
+        keep_tweets_ontop()
+        toggle_visibility('div4')
+    }
+
+    function toggleHeatmap_5() {
+        heatmap_5.setMap(heatmap_5.getMap() ? null : index);
+        keep_tweets_ontop()
+        toggle_visibility('div5')
+    }
+
+    function toggleHeatmap_6() {
+        heatmap_6.setMap(heatmap_6.getMap() ? null : index);
+        keep_tweets_ontop()
+        toggle_visibility('div6')
+    }
+
+    function toggleHeatmap_8() {
+        heatmap_8.setMap(heatmap_8.getMap() ? null : index);
+        keep_tweets_ontop()
+        toggle_visibility('div8')
+    }
+
+    function toggleHeatmap_9() {
+        heatmap_9.setMap(heatmap_9.getMap() ? null : index);
+        keep_tweets_ontop()
+        toggle_visibility('div9')
+    }
+
+    function toggleHeatmap_10() {
+        heatmap_10.setMap(heatmap_10.getMap() ? null : index);
+        keep_tweets_ontop()
+        toggle_visibility('div10')
+    }
+
+    function toggleHeatmap_11() {
+        heatmap_11.setMap(heatmap_11.getMap() ? null : index);
+        keep_tweets_ontop()
+        toggle_visibility('div11')
+    }
+
+    function toggleHeatmap_12() {
+        heatmap_12.setMap(heatmap_12.getMap() ? null : index);
+        keep_tweets_ontop()
+        toggle_visibility('div12')
+    }
+
+    function toggleHeatmap_13() {
+        heatmap_13.setMap(heatmap_13.getMap() ? null : index);
+        keep_tweets_ontop()
+        toggle_visibility('div13')
+    }
+
+    function toggleHeatmap_14() {
+        heatmap_14.setMap(heatmap_14.getMap() ? null : index);
+        keep_tweets_ontop()
+        toggle_visibility('div14')
+    }
+
+    function toggleHeatmap_pos() {
+        heatmap_pos.setMap(heatmap_pos.getMap() ? null : index);
+        toggle_visibility('div15')
+    }
+
+    function toggleHeatmap_neg() {
+        heatmap_neg.setMap(heatmap_neg.getMap() ? null : index);
+        toggle_visibility('div16')
+    }
+
+    function toggle_visibility(id) {
+        var e = document.getElementById(id);
+        if(e.style.display == 'inline')
+            e.style.display = 'none';
+        else
+            e.style.display = 'inline';
+    }
+
+    //function changeRadius() {
+    //   heatmap_1.set('radius', heatmap_1.get('radius') ? null : 20);
+    //}
+
+    //function changeOpacity() {
+    //    heatmap.set('opacity', heatmap.get('opacity') ? null : 0.2);
+    //}
+
+</script>
+<script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=<API KEY REMOVED>&libraries=visualization&callback=initMap">
+</script>
+</body>
+</html>
