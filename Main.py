@@ -99,7 +99,7 @@ def load_crime_data(path):
                     crimes.append(crime)
     return crimes
 
-#loads in raw tweet data. 
+#loads in raw tweet data.
 def load_tweets(path):
     tweets = []
     num_files = len(glob.glob1(path, "*.txt"));
@@ -161,50 +161,6 @@ def build_tweet_timeseries(tweets):
 	np.savetxt('tweet_timeseries.csv',tweet_ts,delimiter=",",fmt=['%s','%1.3f'])
 	return tweet_ts
 
-def build_crime_timeseries(crimes):
-	print crimes[0].month
-
-
-def grid_split_locations(tweets):
-	''' Split the tweet data set by grid partition based on geolocations attached'''
-	
-	# 1) Get min/max of grid
-	min_lat  = float('inf')
-	max_lat  = -float('inf')
-	min_long = float('inf')
-	max_long = -float('inf')
-	for tweet in tweets:
-		if tweet.latitude  < min_lat:
-			min_lat  = tweet.latitude
-		if tweet.latitude  > max_lat:
-			max_lat  = tweet.latitude
-		if tweet.longitude < min_long:
-			min_long = tweet.longitude
-		if tweet.longitude > max_long:
-			max_long = tweet.longitude 
-	
-	print 'Map ranges: ',int(min_lat),int(min_long),int(max_lat),int(max_long)
-	# 2) Choose number of splits of grid and find quadrant coordinates
-	n_split = 10
-	lat_step  = (max_lat  - min_lat) /n_split 
-	long_step = (max_long - min_long)/n_split
-	
-	quadrant_list = np.zeros((n_split,n_split,4))
-	for x in range(n_split):
-		for y in range(n_split):
-			# Format [lower-lat, upper-lat, lower-long,upper-long]
-			quadrant = [(min_lat + x*lat_step), (min_lat + (x+1)*lat_step),
-						(min_long+ y*long_step),(min_long+ (y+1)*long_step)]
-			quadrant_list[x,y] = quadrant
-	#print np.array(quadrant_list), type(quadrant_list)
-
-	# 3) Allocate tweet to quadrant
-	#quadrant_tweet_count= np.zeros((n_split,n_split))
-	#print quadrant_tweet_count
-	#for tweet in tweet:
-	#	for x in range(n_split)
-	#
-	
 if __name__ == "__main__":
     # Place the folder containing your twitter data as the first parameter (leave the r in)
     # Place the folder containing your police data as the second parameter (leave the r in)
