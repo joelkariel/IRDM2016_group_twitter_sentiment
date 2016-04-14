@@ -31,6 +31,7 @@ def main(tweet_path, crime_path):
     #crime_timeseries = build_crime_timeseries(crimes)
     #plot_timeseries(tweet_timeseries,'Plot of Tweet timeseries')
     #grid_split_locations(tweets)
+	pass
 
 def store_crimes_as_geojson(crimes, tweets):
 	myfile = open('output3.geojsonp', 'w')
@@ -55,12 +56,6 @@ def store_crimes_as_geojson(crimes, tweets):
 
 	myfile.write("]});")
 	myfile.close()
-	#myfile.write("]});")
-	#myfile.close()
-
-#def store_tweets_as_geojson(tweets):
-	#myfile = open('output2.geojsonp', 'w')
-	#myfile.write("eqfeed_callback({\"type\":\"FeatureCollection\",\"features\":[\n")
 
 def load_final_classified_tweets(path):
 	tweets = []
@@ -102,7 +97,6 @@ def load_crime_data(path):
                                   entry[8], entry[9], entry[10], entry[11])
                     crimes.append(crime)
     return crimes
-
 
 def load_tweets(path):
     tweets = []
