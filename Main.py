@@ -8,19 +8,74 @@ import matplotlib.dates as mdates
 import math
 
 from Tweet import Tweet
+from Tweet_classified import Tweet_classified
 from Crime import Crime
 from datetime import datetime as dt
 from datetime import timedelta
 
 
+# Uncomment the processes you wish to undertake.
+# to load raw tweets: load_tweets(tweet_path)
+# to load classified tweets: load_final_classified_tweets(tweet_path)
+# to convert to geojson: store_crimes_as_geojson(crimes, tweets) or store_crimes_as_geojson(crimes, tweets)
+
+
 def main(tweet_path, crime_path):
-    tweets = load_tweets(tweet_path)
-    crimes = load_crime_data(crime_path)
+    #tweets = load_tweets(tweet_path)
+    #crimes = load_crime_data(crime_path)
+    #tweets = load_final_classified_tweets(tweet_path)
+    #print len(tweets)
+    #store_crimes_as_geojson(crimes, tweets)
     #extract_hashtags(tweets)
-    tweet_timeseries = build_tweet_timeseries(tweets)
-    crime_timeseries = build_crime_timeseries(crimes)
+    #tweet_timeseries = build_tweet_timeseries(tweets)
+    #crime_timeseries = build_crime_timeseries(crimes)
     #plot_timeseries(tweet_timeseries,'Plot of Tweet timeseries')
-    grid_split_locations(tweets)
+    #grid_split_locations(tweets)
+
+def store_crimes_as_geojson(crimes, tweets):
+	myfile = open('output3.geojsonp', 'w')
+	myfile.write("eqfeed_callback({\"type\":\"FeatureCollection\",\"features\":[\n")
+	counter = 0;
+	for crime in crimes:
+		counter += 1
+		if crime.crime_type and crime.latitude and crime.longitude:
+			if counter == len(crimes):
+				myfile.write("{\"type\":\"Feature\",\"properties\":{\"mytype\":\"crime\",\"description\":\"" + crime.crime_type + "\"},\"geometry\":{\"type\":\"Point\",\"coordinates\":["+ str(crime.latitude) + "," + str(crime.longitude) + "]},\"id\":\""+ str(counter) +"\"}\n")
+			else:
+				myfile.write("{\"type\":\"Feature\",\"properties\":{\"mytype\":\"crime\",\"description\":\"" + crime.crime_type + "\"},\"geometry\":{\"type\":\"Point\",\"coordinates\":["+ str(crime.latitude) + "," + str(crime.longitude) + "]},\"id\":\""+ str(counter) +"\"},\n")
+
+	counter = 0;
+	for tweet in tweets:
+		counter += 1
+		if tweet.classification and tweet.latitude and tweet.longitude and tweet.confidence:
+			if counter == len(tweets):
+				myfile.write("{\"type\":\"Feature\",\"properties\":{\"mytype\":\"tweet\",\"classification\":\"" + tweet.classification + "\",\"confidence\":\"" + tweet.confidence + "\"},\"geometry\":{\"type\":\"Point\",\"coordinates\":["+ str(tweet.latitude) + "," + str(tweet.longitude) + "]},\"id\":\""+ str(counter) +"\"}\n")
+			else:
+				myfile.write("{\"type\":\"Feature\",\"properties\":{\"mytype\":\"tweet\",\"classification\":\"" + tweet.classification + "\",\"confidence\":\"" + tweet.confidence + "\"},\"geometry\":{\"type\":\"Point\",\"coordinates\":["+ str(tweet.latitude) + "," + str(tweet.longitude) + "]},\"id\":\""+ str(counter) +"\"},\n")
+
+	myfile.write("]});")
+	myfile.close()
+	#myfile.write("]});")
+	#myfile.close()
+
+#def store_tweets_as_geojson(tweets):
+	#myfile = open('output2.geojsonp', 'w')
+	#myfile.write("eqfeed_callback({\"type\":\"FeatureCollection\",\"features\":[\n")
+
+def load_final_classified_tweets(path):
+	tweets = []
+	with open(path, "rU") as data_file:
+		reader = csv.reader(data_file, delimiter=',')
+		counter = 0
+		for entry in reader:
+			if counter == 819:
+				print 'here'
+			counter += 1
+			if len(entry) >= 8:
+				tweet = Tweet_classified(entry[0], entry[1], entry[3], entry[7], entry[8])
+				tweets.append(tweet)
+			print counter
+	return tweets
 
 def extract_hashtags(tweets):
     for tweet in tweets:
@@ -43,8 +98,8 @@ def load_crime_data(path):
                 next(reader, None)
                 for entry in reader:
                     crime = Crime(entry[0], entry[1], entry[2], entry[3],
-                              entry[4], entry[5], entry[6], entry[7],
-                              entry[8], entry[9], entry[10], entry[11])
+                                  entry[4], entry[5], entry[6], entry[7],
+                                  entry[8], entry[9], entry[10], entry[11])
                     crimes.append(crime)
     return crimes
 
@@ -154,15 +209,7 @@ def grid_split_locations(tweets):
 	#print quadrant_tweet_count
 	#for tweet in tweet:
 	#	for x in range(n_split)
-	#	
-	
-	
-	
-	
-	
-	
-	
-	
+	#
 	
 if __name__ == "__main__":
     # Place the folder containing your twitter data as the first parameter (leave the r in)
@@ -170,5 +217,5 @@ if __name__ == "__main__":
     path = os.getcwd()
     twitter_path = path + '\\twitter_sample'
     crime_path = path + '\\Crime_sample'
-    main(twitter_path,crime_path)
-    #main(r"C:\Users\Ross\Downloads\Twitter", r"C:\Users\Ross\Dropbox\IRDMGROUP\Crime")
+    #main(twitter_path,crime_path)
+    main(r"C:\Users\Ross\Downloads\Twitter", r"C:\Users\Ross\Dropbox\IRDMGROUP\Crime")

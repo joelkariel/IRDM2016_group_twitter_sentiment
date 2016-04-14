@@ -1,0 +1,40 @@
+====================================
+Parser (see Main.py):
+====================================
+
+The parser offers the following functionality (uncomment the methods for your required use):
+> tweets = load_tweets(tweet_path)
+This loads the tweets from the raw data and places them into a collection of tweet objects. 
+> crimes = load_crime_data(crime_path)
+This loads the crime from the raw data and places them into a collection of crime objects. 
+> store_crimes_as_geojson(crimes, tweets)
+This writes out crimes and tweets as geojson (which is then read by the web app). 
+> extract_hashtags(tweets)
+This identifies the hashtags within the raw tweet data and populates the following properties:
+tweet.text_without_hashtags = the tweet with hashtags removed
+tweet.hashtags = [A list of hashtags present in the tweet]
+
+====================================
+Web app (In 'WebApp' folder):
+====================================
+
+The code for the webapp can be found here: https://github.com/joelkariel/irdm_twitter_sentiment/tree/master/WebApp
+
+map.html needs to be run in the browser. 
+
+Note: To run this code you will need to provide your own Google Maps API key.
+
+Reason: Google advises against making unrestricted API keys public (placing them on github). 
+As our code is public, we have restricted the API key to only work with our website. 
+
+To obtain a key: https://developers.google.com/maps/documentation/javascript/get-api-key
+
+Working implementation:
+A running version of the web app can be found at:
+http://s609544430.websitehome.co.uk/IRDM/index.html
+
+Note: As the web app is programmed in JavaScript, heatmap generation is done 
+on the client side, and initial generation might take up to 30 seconds. 
+
+
+
