@@ -34,7 +34,7 @@ A running version of the web app can be found at:
 http://s609544430.websitehome.co.uk/IRDM/index.html
 
 Note: As the web app is programmed in JavaScript, heatmap generation is done 
-on the client side, and initial generation might take up to 30 seconds. 
+on the client side, and initial generation might take up to 30 seconds.  
 
 
 
