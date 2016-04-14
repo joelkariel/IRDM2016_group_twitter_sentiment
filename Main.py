@@ -6,19 +6,16 @@ import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 import math
-
 from Tweet import Tweet
 from Tweet_classified import Tweet_classified
 from Crime import Crime
 from datetime import datetime as dt
 from datetime import timedelta
 
-
 # Uncomment the processes you wish to undertake.
 # to load raw tweets: load_tweets(tweet_path)
 # to load classified tweets: load_final_classified_tweets(tweet_path)
 # to convert to geojson: store_crimes_as_geojson(crimes, tweets) or store_crimes_as_geojson(crimes, tweets)
-
 
 def main(tweet_path, crime_path):
     #tweets = load_tweets(tweet_path)
@@ -33,6 +30,8 @@ def main(tweet_path, crime_path):
     #grid_split_locations(tweets)
 	pass
 
+# This method outputs crime and tweet objects as geojson
+# For use in the web app.
 def store_crimes_as_geojson(crimes, tweets):
 	myfile = open('output3.geojsonp', 'w')
 	myfile.write("eqfeed_callback({\"type\":\"FeatureCollection\",\"features\":[\n")
@@ -57,6 +56,7 @@ def store_crimes_as_geojson(crimes, tweets):
 	myfile.write("]});")
 	myfile.close()
 
+# loads in tweets that have been classified by the NLP process.
 def load_final_classified_tweets(path):
 	tweets = []
 	with open(path, "rU") as data_file:
@@ -72,6 +72,7 @@ def load_final_classified_tweets(path):
 			print counter
 	return tweets
 
+# Extracts hashtags from tweet objects and populates property: text_without_hashtags and hashtags
 def extract_hashtags(tweets):
     for tweet in tweets:
         tweet.text_without_hashtags = tweet.text
@@ -80,7 +81,7 @@ def extract_hashtags(tweets):
             for hashtag in tweet.hashtags:
                 tweet.text_without_hashtags = tweet.text_without_hashtags.replace('#' + hashtag, '')
 
-
+#loads in crime data.
 def load_crime_data(path):
     crimes = []
     counter = 0
@@ -98,6 +99,7 @@ def load_crime_data(path):
                     crimes.append(crime)
     return crimes
 
+#loads in raw tweet data. 
 def load_tweets(path):
     tweets = []
     num_files = len(glob.glob1(path, "*.txt"));
@@ -129,8 +131,6 @@ def plot_timeseries(ts,title):
 	plt.gcf().autofmt_xdate()
 	#show graph
 	plt.show()
-	
-	
 
 def build_tweet_timeseries(tweets):
 	
