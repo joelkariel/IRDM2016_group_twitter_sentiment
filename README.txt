@@ -18,7 +18,7 @@ tweet.hashtags = [A list of hashtags present in the tweet]
 Web app (In 'WebApp' folder):
 ====================================
 
-The code for the webapp can be found here: https://github.com/joelkariel/irdm_twitter_sentiment/tree/master/WebApp
+The code for the webapp can be found here: https://github.com/joelkariel/IRDM2016_group_twitter_sentiment/tree/master/WebApp
 
 map.html needs to be run in the browser. 
 
