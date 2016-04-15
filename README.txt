@@ -36,5 +36,20 @@ http://s609544430.websitehome.co.uk/IRDM/index.html
 Note: As the web app is programmed in JavaScript, heatmap generation is done 
 on the client side, and initial generation might take up to 30 seconds.  
 
+====================================
+Results Analysis (In '3. Results' folder); see Main_classified.py:
+====================================
+
+Usage: ~$ python Main_classified.py
+
+Main_classified.py takes two input arguments (defaults already set) 
+> twitter_path = <PATH TO FOLDER CONTAINING CLASSIFIED TWEETS>
+> crime_path   = <PATH TO FOLDER CONTAINING CRIME DATA>  
+
+The script performs the following steps on the NLP classified tweet data
+1) Loads in the data 
+2) Splits the data by a grid system
+3) Splits the tweet data by London borough
+
 
 
